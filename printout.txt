@@ -1,0 +1,84 @@
+############################################################
+  Salt box length = 10 cm  (tag: _10cm)
+############################################################
+
+  Saved fig_neutron_raw_10cm.png
+  Saved fig_gamma_raw_10cm.png
+  Saved fig_neutron_sub_10cm.png
+  Saved fig_gamma_sub_10cm.png
+
+  U-238 flux-averaged macroscopic cross sections in salt box (Σ̄ = rate / flux):
+    case                                               Σ_capture [1/cm]   Σ_fission [1/cm]
+    ------------------------------------------------  -----------------  -----------------
+    collimated_FLiBe_0.5molUF4_10cm                        4.077106e-06       5.765759e-05
+    collimated_FLiBe_5.0molUF4_10cm                        2.711428e-05       5.648160e-04
+    collimated_FLiBe_10.0molUF4_10cm                       4.835018e-05       1.110325e-03
+    collimated_ClLiF_0.5molUCl3_10cm                       3.541659e-06       1.540416e-04
+    collimated_ClLiF_5.0molUCl3_10cm                       3.566969e-05       1.344499e-03
+    collimated_ClLiF_10.0molUCl3_10cm                      6.931016e-05       2.355729e-03
+    collimated_air_background_10cm                                  n/a                n/a
+    moderated_FLiBe_0.5molUF4_10cm                         2.727611e-05       2.514822e-06
+    moderated_FLiBe_5.0molUF4_10cm                         2.740563e-04       2.539745e-05
+    moderated_FLiBe_10.0molUF4_10cm                        5.213159e-04       5.081413e-05
+    moderated_ClLiF_0.5molUCl3_10cm                        6.668424e-05       6.817759e-06
+    moderated_ClLiF_5.0molUCl3_10cm                        5.927242e-04       6.135401e-05
+    moderated_ClLiF_10.0molUCl3_10cm                       9.413962e-04       1.106026e-04
+    moderated_air_background_10cm                                   n/a                n/a
+
+  Saved summary_10cm.csv  (14 rows)
+############################################################
+  Salt box length = 20 cm  (tag: _20cm)
+############################################################
+
+  Saved fig_neutron_raw_20cm.png
+  Saved fig_gamma_raw_20cm.png
+  Saved fig_neutron_sub_20cm.png
+  Saved fig_gamma_sub_20cm.png
+
+  U-238 flux-averaged macroscopic cross sections in salt box (Σ̄ = rate / flux):
+    case                                               Σ_capture [1/cm]   Σ_fission [1/cm]
+    ------------------------------------------------  -----------------  -----------------
+    collimated_FLiBe_0.5molUF4_20cm                        3.597705e-06       5.596405e-05
+    collimated_FLiBe_5.0molUF4_20cm                        2.675346e-05       5.474872e-04
+    collimated_FLiBe_10.0molUF4_20cm                       4.956737e-05       1.075448e-03
+    collimated_ClLiF_0.5molUCl3_20cm                       3.763888e-06       1.500724e-04
+    collimated_ClLiF_5.0molUCl3_20cm                       3.758758e-05       1.310671e-03
+    collimated_ClLiF_10.0molUCl3_20cm                      7.536368e-05       2.284289e-03
+    collimated_air_background_20cm                                  n/a                n/a
+    moderated_FLiBe_0.5molUF4_20cm                         2.087078e-04       2.465302e-06
+    moderated_FLiBe_5.0molUF4_20cm                         2.792914e-04       2.527951e-05
+    moderated_FLiBe_10.0molUF4_20cm                        5.306854e-04       4.983809e-05
+    moderated_ClLiF_0.5molUCl3_20cm                        6.023301e-05       6.450922e-06
+    moderated_ClLiF_5.0molUCl3_20cm                        6.120674e-04       5.829016e-05
+    moderated_ClLiF_10.0molUCl3_20cm                       9.703001e-04       1.123302e-04
+    moderated_air_background_20cm                                   n/a                n/a
+
+  Saved summary_20cm.csv  (14 rows)
+############################################################
+  Salt box length = 30 cm  (tag: _30cm)
+############################################################
+
+  Saved fig_neutron_raw_30cm.png
+  Saved fig_gamma_raw_30cm.png
+  Saved fig_neutron_sub_30cm.png
+  Saved fig_gamma_sub_30cm.png
+
+  U-238 flux-averaged macroscopic cross sections in salt box (Σ̄ = rate / flux):
+    case                                               Σ_capture [1/cm]   Σ_fission [1/cm]
+    ------------------------------------------------  -----------------  -----------------
+    collimated_FLiBe_0.5molUF4_30cm                        3.479801e-06       5.584490e-05
+    collimated_FLiBe_5.0molUF4_30cm                        2.611767e-05       5.466016e-04
+    collimated_FLiBe_10.0molUF4_30cm                       5.000900e-05       1.067566e-03
+    collimated_ClLiF_0.5molUCl3_30cm                       3.763013e-06       1.491786e-04
+    collimated_ClLiF_5.0molUCl3_30cm                       3.753107e-05       1.304297e-03
+    collimated_ClLiF_10.0molUCl3_30cm                      7.607550e-05       2.267974e-03
+    collimated_air_background_30cm                                  n/a                n/a
+    moderated_FLiBe_0.5molUF4_30cm                         1.914828e-04       2.469603e-06
+    moderated_FLiBe_5.0molUF4_30cm                         2.666509e-04       2.551761e-05
+    moderated_FLiBe_10.0molUF4_30cm                        5.142490e-04       4.996666e-05
+    moderated_ClLiF_0.5molUCl3_30cm                        6.498281e-05       6.104370e-06
+    moderated_ClLiF_5.0molUCl3_30cm                        5.860337e-04       5.666535e-05
+    moderated_ClLiF_10.0molUCl3_30cm                       9.335298e-04       1.084840e-04
+    moderated_air_background_30cm                                   n/a                n/a
+
+  Saved summary_30cm.csv  (14 rows)
