@@ -8,27 +8,25 @@
   Saved fig_gamma_sub_10cm.png
 
   Flux-averaged macroscopic cross sections in salt box [1/cm]  (Σ̄ = rate / flux;  U = U235 + U238):
-    case                                             U235_cap     U235_fis     U238_cap     U238_fis        U_cap        U_fis
-    --------------------------------------------  -----------  -----------  -----------  -----------  -----------  -----------
-    collimated_FLiBe_0.5molUF4_10cm                 3.783e-08    9.030e-07    4.077e-06    5.766e-05    4.115e-06    5.856e-05
-    collimated_FLiBe_5.0molUF4_10cm                 3.785e-07    8.924e-06    2.711e-05    5.648e-04    2.749e-05    5.737e-04
-    collimated_FLiBe_10.0molUF4_10cm                8.411e-07    1.794e-05    4.835e-05    1.110e-03    4.919e-05    1.128e-03
-    collimated_ClLiF_0.5molUCl3_10cm                5.798e-08    2.301e-06    3.542e-06    1.540e-04    3.600e-06    1.563e-04
-    collimated_ClLiF_5.0molUCl3_10cm                5.549e-07    2.043e-05    3.567e-05    1.344e-03    3.622e-05    1.365e-03
-    collimated_ClLiF_10.0molUCl3_10cm               1.097e-06    3.634e-05    6.931e-05    2.356e-03    7.041e-05    2.392e-03
-    collimated_air_background_10cm                        n/a          n/a          n/a          n/a          n/a          n/a
-    moderated_FLiBe_0.5molUF4_10cm                  6.516e-07    1.582e-06    2.728e-05    2.515e-06    2.793e-05    4.097e-06
-    moderated_FLiBe_5.0molUF4_10cm                  5.345e-06    1.474e-05    2.741e-04    2.540e-05    2.794e-04    4.014e-05
-    moderated_FLiBe_10.0molUF4_10cm                 1.061e-05    2.883e-05    5.213e-04    5.081e-05    5.319e-04    7.965e-05
-    moderated_ClLiF_0.5molUCl3_10cm                 1.096e-06    3.647e-06    6.668e-05    6.818e-06    6.778e-05    1.046e-05
-    moderated_ClLiF_5.0molUCl3_10cm                 1.108e-05    3.535e-05    5.927e-04    6.135e-05    6.038e-04    9.670e-05
-    moderated_ClLiF_10.0molUCl3_10cm                2.058e-05    6.380e-05    9.414e-04    1.106e-04    9.620e-04    1.744e-04
-    moderated_air_background_10cm                         n/a          n/a          n/a          n/a          n/a          n/a
+    (each cell:  Σ̄ ± relative 1σ statistical error)
+    case                                                  U235_cap          U235_fis          U238_cap          U238_fis             U_cap             U_fis
+    --------------------------------------------  ----------------  ----------------  ----------------  ----------------  ----------------  ----------------
+    collimated_FLiBe_0.5molUF4_10cm               3.165e-08 ±  12%  8.809e-07 ±  <1%  2.302e-06 ±  13%  5.789e-05 ±  <1%  2.333e-06 ±  13%  5.877e-05 ±  <1%
+    collimated_FLiBe_5.0molUF4_10cm               2.982e-07 ±   6%  8.728e-06 ±  <1%  2.083e-05 ±   6%  5.696e-04 ±  <1%  2.113e-05 ±   6%  5.783e-04 ±  <1%
+    collimated_FLiBe_10.0molUF4_10cm              6.274e-07 ±   6%  1.739e-05 ±  <1%  4.097e-05 ±   4%  1.122e-03 ±  <1%  4.160e-05 ±   4%  1.139e-03 ±  <1%
+    collimated_ClLiF_0.5molUCl3_10cm              5.662e-08 ±  10%  2.291e-06 ±  <1%  4.726e-06 ±  17%  1.549e-04 ±  <1%  4.782e-06 ±  16%  1.572e-04 ±  <1%
+    collimated_ClLiF_5.0molUCl3_10cm              5.131e-07 ±   8%  2.029e-05 ±  <1%  3.894e-05 ±   7%  1.351e-03 ±  <1%  3.945e-05 ±   6%  1.371e-03 ±  <1%
+    collimated_ClLiF_10.0molUCl3_10cm             9.162e-07 ±   5%  3.589e-05 ±  <1%  6.966e-05 ±   3%  2.366e-03 ±  <1%  7.058e-05 ±   3%  2.402e-03 ±  <1%
+    collimated_air_background_10cm                             n/a               n/a               n/a               n/a               n/a               n/a
+    moderated_FLiBe_0.5molUF4_10cm                5.944e-07 ±   6%  1.560e-06 ±   4%  8.808e-05 ±  27%  2.345e-06 ±   7%  8.867e-05 ±  27%  3.905e-06 ±   4%
+    moderated_FLiBe_5.0molUF4_10cm                5.677e-06 ±   6%  1.516e-05 ±   3%  4.730e-04 ±  15%  2.380e-05 ±   7%  4.787e-04 ±  15%  3.896e-05 ±   4%
+    moderated_FLiBe_10.0molUF4_10cm               1.117e-05 ±   6%  2.980e-05 ±   3%  8.083e-04 ±  12%  4.718e-05 ±   6%  8.195e-04 ±  12%  7.699e-05 ±   4%
+    moderated_ClLiF_0.5molUCl3_10cm               1.295e-06 ±   6%  3.514e-06 ±   3%  1.633e-04 ±  22%  6.016e-06 ±   7%  1.646e-04 ±  22%  9.530e-06 ±   4%
+    moderated_ClLiF_5.0molUCl3_10cm               1.157e-05 ±   6%  3.176e-05 ±   4%  7.353e-04 ±  14%  5.302e-05 ±   7%  7.469e-04 ±  14%  8.478e-05 ±   4%
+    moderated_ClLiF_10.0molUCl3_10cm              2.096e-05 ±   6%  5.753e-05 ±   4%  1.074e-03 ±  11%  9.614e-05 ±   7%  1.095e-03 ±  11%  1.537e-04 ±   4%
+    moderated_air_background_10cm                              n/a               n/a               n/a               n/a               n/a               n/a
 
   Saved summary_10cm.csv  (14 rows)
-
-
-
 ############################################################
   Salt box length = 20 cm  (tag: _20cm)
 ############################################################
@@ -39,26 +37,25 @@
   Saved fig_gamma_sub_20cm.png
 
   Flux-averaged macroscopic cross sections in salt box [1/cm]  (Σ̄ = rate / flux;  U = U235 + U238):
-    case                                             U235_cap     U235_fis     U238_cap     U238_fis        U_cap        U_fis
-    --------------------------------------------  -----------  -----------  -----------  -----------  -----------  -----------
-    collimated_FLiBe_0.5molUF4_20cm                 3.632e-08    8.819e-07    3.598e-06    5.596e-05    3.634e-06    5.685e-05
-    collimated_FLiBe_5.0molUF4_20cm                 3.715e-07    8.716e-06    2.675e-05    5.475e-04    2.712e-05    5.562e-04
-    collimated_FLiBe_10.0molUF4_20cm                7.880e-07    1.743e-05    4.957e-05    1.075e-03    5.036e-05    1.093e-03
-    collimated_ClLiF_0.5molUCl3_20cm                5.466e-08    2.252e-06    3.764e-06    1.501e-04    3.819e-06    1.523e-04
-    collimated_ClLiF_5.0molUCl3_20cm                5.190e-07    1.997e-05    3.759e-05    1.311e-03    3.811e-05    1.331e-03
-    collimated_ClLiF_10.0molUCl3_20cm               1.061e-06    3.556e-05    7.536e-05    2.284e-03    7.642e-05    2.320e-03
-    collimated_air_background_20cm                        n/a          n/a          n/a          n/a          n/a          n/a
-    moderated_FLiBe_0.5molUF4_20cm                  6.411e-07    1.597e-06    2.087e-04    2.465e-06    2.093e-04    4.062e-06
-    moderated_FLiBe_5.0molUF4_20cm                  5.326e-06    1.519e-05    2.793e-04    2.528e-05    2.846e-04    4.047e-05
-    moderated_FLiBe_10.0molUF4_20cm                 1.068e-05    3.009e-05    5.307e-04    4.984e-05    5.414e-04    7.992e-05
-    moderated_ClLiF_0.5molUCl3_20cm                 1.005e-06    3.348e-06    6.023e-05    6.451e-06    6.124e-05    9.799e-06
-    moderated_ClLiF_5.0molUCl3_20cm                 1.000e-05    3.220e-05    6.121e-04    5.829e-05    6.221e-04    9.049e-05
-    moderated_ClLiF_10.0molUCl3_20cm                1.846e-05    5.803e-05    9.703e-04    1.123e-04    9.888e-04    1.704e-04
-    moderated_air_background_20cm                         n/a          n/a          n/a          n/a          n/a          n/a
+    (each cell:  Σ̄ ± relative 1σ statistical error)
+    case                                                  U235_cap          U235_fis          U238_cap          U238_fis             U_cap             U_fis
+    --------------------------------------------  ----------------  ----------------  ----------------  ----------------  ----------------  ----------------
+    collimated_FLiBe_0.5molUF4_20cm               3.108e-08 ±   9%  8.653e-07 ±  <1%  2.356e-06 ±   9%  5.624e-05 ±  <1%  2.387e-06 ±   9%  5.710e-05 ±  <1%
+    collimated_FLiBe_5.0molUF4_20cm               3.030e-07 ±   4%  8.582e-06 ±  <1%  2.235e-05 ±   4%  5.528e-04 ±  <1%  2.266e-05 ±   4%  5.614e-04 ±  <1%
+    collimated_FLiBe_10.0molUF4_20cm              6.389e-07 ±   4%  1.708e-05 ±  <1%  4.522e-05 ±   3%  1.086e-03 ±  <1%  4.586e-05 ±   3%  1.103e-03 ±  <1%
+    collimated_ClLiF_0.5molUCl3_20cm              5.286e-08 ±   7%  2.252e-06 ±  <1%  4.532e-06 ±  12%  1.516e-04 ±  <1%  4.585e-06 ±  12%  1.538e-04 ±  <1%
+    collimated_ClLiF_5.0molUCl3_20cm              4.966e-07 ±   6%  1.993e-05 ±  <1%  4.017e-05 ±   4%  1.316e-03 ±  <1%  4.067e-05 ±   4%  1.336e-03 ±  <1%
+    collimated_ClLiF_10.0molUCl3_20cm             9.195e-07 ±   4%  3.527e-05 ±  <1%  7.516e-05 ±   2%  2.295e-03 ±  <1%  7.608e-05 ±   2%  2.331e-03 ±  <1%
+    collimated_air_background_20cm                             n/a               n/a               n/a               n/a               n/a               n/a
+    moderated_FLiBe_0.5molUF4_20cm                5.944e-07 ±   5%  1.596e-06 ±   3%  1.168e-04 ±  27%  2.540e-06 ±   7%  1.174e-04 ±  27%  4.137e-06 ±   4%
+    moderated_FLiBe_5.0molUF4_20cm                5.640e-06 ±   5%  1.558e-05 ±   3%  4.940e-04 ±  14%  2.533e-05 ±   7%  4.996e-04 ±  14%  4.091e-05 ±   4%
+    moderated_FLiBe_10.0molUF4_20cm               1.110e-05 ±   5%  3.055e-05 ±   3%  7.754e-04 ±  11%  5.006e-05 ±   7%  7.865e-04 ±  11%  8.062e-05 ±   4%
+    moderated_ClLiF_0.5molUCl3_20cm               1.189e-06 ±   6%  3.386e-06 ±   3%  1.427e-04 ±  19%  6.118e-06 ±   7%  1.439e-04 ±  19%  9.504e-06 ±   5%
+    moderated_ClLiF_5.0molUCl3_20cm               1.057e-05 ±   5%  3.044e-05 ±   3%  6.700e-04 ±  12%  5.360e-05 ±   7%  6.806e-04 ±  11%  8.403e-05 ±   5%
+    moderated_ClLiF_10.0molUCl3_20cm              1.875e-05 ±   5%  5.436e-05 ±   3%  9.887e-04 ±   9%  9.824e-05 ±   7%  1.007e-03 ±   9%  1.526e-04 ±   5%
+    moderated_air_background_20cm                              n/a               n/a               n/a               n/a               n/a               n/a
 
   Saved summary_20cm.csv  (14 rows)
-
-
 ############################################################
   Salt box length = 30 cm  (tag: _30cm)
 ############################################################
@@ -69,21 +66,22 @@
   Saved fig_gamma_sub_30cm.png
 
   Flux-averaged macroscopic cross sections in salt box [1/cm]  (Σ̄ = rate / flux;  U = U235 + U238):
-    case                                             U235_cap     U235_fis     U238_cap     U238_fis        U_cap        U_fis
-    --------------------------------------------  -----------  -----------  -----------  -----------  -----------  -----------
-    collimated_FLiBe_0.5molUF4_30cm                 3.532e-08    8.777e-07    3.480e-06    5.584e-05    3.515e-06    5.672e-05
-    collimated_FLiBe_5.0molUF4_30cm                 3.595e-07    8.674e-06    2.612e-05    5.466e-04    2.648e-05    5.553e-04
-    collimated_FLiBe_10.0molUF4_30cm                7.807e-07    1.733e-05    5.001e-05    1.068e-03    5.079e-05    1.085e-03
-    collimated_ClLiF_0.5molUCl3_30cm                5.408e-08    2.242e-06    3.763e-06    1.492e-04    3.817e-06    1.514e-04
-    collimated_ClLiF_5.0molUCl3_30cm                5.033e-07    1.988e-05    3.753e-05    1.304e-03    3.803e-05    1.324e-03
-    collimated_ClLiF_10.0molUCl3_30cm               1.039e-06    3.536e-05    7.608e-05    2.268e-03    7.711e-05    2.303e-03
-    collimated_air_background_30cm                        n/a          n/a          n/a          n/a          n/a          n/a
-    moderated_FLiBe_0.5molUF4_30cm                  6.178e-07    1.597e-06    1.915e-04    2.470e-06    1.921e-04    4.066e-06
-    moderated_FLiBe_5.0molUF4_30cm                  5.187e-06    1.516e-05    2.667e-04    2.552e-05    2.718e-04    4.068e-05
-    moderated_FLiBe_10.0molUF4_30cm                 1.041e-05    3.015e-05    5.142e-04    4.997e-05    5.247e-04    8.011e-05
-    moderated_ClLiF_0.5molUCl3_30cm                 1.379e-06    3.906e-06    6.498e-05    6.104e-06    6.636e-05    1.001e-05
-    moderated_ClLiF_5.0molUCl3_30cm                 9.792e-06    3.127e-05    5.860e-04    5.667e-05    5.958e-04    8.794e-05
-    moderated_ClLiF_10.0molUCl3_30cm                1.807e-05    5.633e-05    9.335e-04    1.085e-04    9.516e-04    1.648e-04
-    moderated_air_background_30cm                         n/a          n/a          n/a          n/a          n/a          n/a
+    (each cell:  Σ̄ ± relative 1σ statistical error)
+    case                                                  U235_cap          U235_fis          U238_cap          U238_fis             U_cap             U_fis
+    --------------------------------------------  ----------------  ----------------  ----------------  ----------------  ----------------  ----------------
+    collimated_FLiBe_0.5molUF4_30cm               3.151e-08 ±   8%  8.632e-07 ±  <1%  2.395e-06 ±   8%  5.590e-05 ±  <1%  2.426e-06 ±   8%  5.677e-05 ±  <1%
+    collimated_FLiBe_5.0molUF4_30cm               3.084e-07 ±   4%  8.559e-06 ±  <1%  2.265e-05 ±   4%  5.491e-04 ±  <1%  2.296e-05 ±   4%  5.577e-04 ±  <1%
+    collimated_FLiBe_10.0molUF4_30cm              6.497e-07 ±   4%  1.703e-05 ±  <1%  4.631e-05 ±   2%  1.079e-03 ±  <1%  4.696e-05 ±   2%  1.096e-03 ±  <1%
+    collimated_ClLiF_0.5molUCl3_30cm              5.333e-08 ±   7%  2.242e-06 ±  <1%  4.534e-06 ±  11%  1.505e-04 ±  <1%  4.587e-06 ±  11%  1.528e-04 ±  <1%
+    collimated_ClLiF_5.0molUCl3_30cm              4.980e-07 ±   5%  1.985e-05 ±  <1%  4.140e-05 ±   5%  1.307e-03 ±  <1%  4.190e-05 ±   4%  1.327e-03 ±  <1%
+    collimated_ClLiF_10.0molUCl3_30cm             9.306e-07 ±   3%  3.512e-05 ±  <1%  7.629e-05 ±   2%  2.276e-03 ±  <1%  7.722e-05 ±   2%  2.311e-03 ±  <1%
+    collimated_air_background_30cm                             n/a               n/a               n/a               n/a               n/a               n/a
+    moderated_FLiBe_0.5molUF4_30cm                6.244e-07 ±   5%  1.654e-06 ±   4%  1.179e-04 ±  25%  2.569e-06 ±   7%  1.185e-04 ±  25%  4.223e-06 ±   5%
+    moderated_FLiBe_5.0molUF4_30cm                5.956e-06 ±   5%  1.620e-05 ±   3%  5.109e-04 ±  13%  2.557e-05 ±   7%  5.169e-04 ±  13%  4.177e-05 ±   4%
+    moderated_FLiBe_10.0molUF4_30cm               1.182e-05 ±   5%  3.188e-05 ±   3%  8.169e-04 ±  11%  5.024e-05 ±   7%  8.287e-04 ±  10%  8.212e-05 ±   4%
+    moderated_ClLiF_0.5molUCl3_30cm               1.269e-06 ±   6%  3.473e-06 ±   4%  1.379e-04 ±  18%  6.069e-06 ±   8%  1.392e-04 ±  18%  9.542e-06 ±   5%
+    moderated_ClLiF_5.0molUCl3_30cm               1.090e-05 ±   5%  3.054e-05 ±   3%  6.592e-04 ±  11%  5.315e-05 ±   7%  6.701e-04 ±  11%  8.369e-05 ±   5%
+    moderated_ClLiF_10.0molUCl3_30cm              1.951e-05 ±   5%  5.481e-05 ±   3%  9.853e-04 ±   8%  9.656e-05 ±   7%  1.005e-03 ±   8%  1.514e-04 ±   5%
+    moderated_air_background_30cm                              n/a               n/a               n/a               n/a               n/a               n/a
 
   Saved summary_30cm.csv  (14 rows)

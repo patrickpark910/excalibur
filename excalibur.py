@@ -382,7 +382,7 @@ class Excalibur:
             #     (i.e. 8.2e8 × 0.1464 ≈ 1.20e8  n/s into the cone)
             s.run_mode = "fixed source"
             s.batches    = 100
-            s.particles  = int(1e4)      # per batch
+            s.particles  = int(1e5)      # per batch
 
             s.source = openmc.IndependentSource(
                 space  = openmc.stats.Point((0.0, 0.0, 0.0)),

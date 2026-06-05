@@ -184,7 +184,7 @@
    Incoming Energy [0.005857762359329055, 0.006748960696928202)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              1e-07 +/- 1e-07
    Incoming Energy [0.006748960696928202, 0.007775745701964369)
      Particle: neutron
        Total Material
@@ -204,595 +204,595 @@
    Incoming Energy [0.011892071150027212, 0.013701327550235452)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [0.013701327550235452, 0.015785843716417006)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              1e-07 +/- 1e-07
    Incoming Energy [0.015785843716417006, 0.018187497592878143)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [0.018187497592878143, 0.020954538422734887)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              5e-07 +/- 2.19043e-07
    Incoming Energy [0.020954538422734887, 0.024142556075543487)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [0.024142556075543487, 0.027815597848167208)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              4e-07 +/- 1.96946e-07
    Incoming Energy [0.027815597848167208, 0.03204745517541666)
      Particle: neutron
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              6e-07 +/- 2.38683e-07
    Incoming Energy [0.03204745517541666, 0.03692314610048959)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              5e-07 +/- 2.61116e-07
    Incoming Energy [0.03692314610048959, 0.04254062328805098)
      Particle: neutron
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              8e-07 +/- 2.7266e-07
    Incoming Energy [0.04254062328805098, 0.049012741893948976)
      Particle: neutron
        Total Material
-         Current                              3.48601e-07 +/- 3.48601e-07
+         Current                              8.3486e-07 +/- 2.73853e-07
    Incoming Energy [0.049012741893948976, 0.056469526826082424)
      Particle: neutron
        Total Material
-         Current                              0 +/- 1.42134e-06
+         Current                              1.11999e-06 +/- 3.96568e-07
    Incoming Energy [0.056469526826082424, 0.06506078494570668)
      Particle: neutron
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              1.53721e-06 +/- 4.11642e-07
    Incoming Energy [0.06506078494570668, 0.0749591146883203)
      Particle: neutron
        Total Material
-         Current                              2.36929e-06 +/- 1.44957e-06
+         Current                              1.97414e-06 +/- 4.42418e-07
    Incoming Energy [0.0749591146883203, 0.08636337356743713)
      Particle: neutron
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              2.6e-06 +/- 4.63191e-07
    Incoming Energy [0.08636337356743713, 0.09950267322341869)
      Particle: neutron
        Total Material
-         Current                              2e-06 +/- 2e-06
+         Current                              2.1e-06 +/- 4.56048e-07
    Incoming Energy [0.09950267322341869, 0.11464098227792577)
      Particle: neutron
        Total Material
-         Current                              3e-06 +/- 1.71447e-06
+         Current                              2.96611e-06 +/- 5.34114e-07
    Incoming Energy [0.11464098227792577, 0.1320824294653673)
      Particle: neutron
        Total Material
-         Current                              3e-06 +/- 1.71447e-06
+         Current                              2.76402e-06 +/- 4.89336e-07
    Incoming Energy [0.1320824294653673, 0.1521774135812942)
      Particle: neutron
        Total Material
-         Current                              6e-06 +/- 2.38683e-06
+         Current                              6.0369e-06 +/- 7.76498e-07
    Incoming Energy [0.1521774135812942, 0.17532964299664375)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              5.4e-06 +/- 7.16614e-07
    Incoming Energy [0.17532964299664375, 0.20200424616172638)
      Particle: neutron
        Total Material
-         Current                              6e-06 +/- 2.38683e-06
+         Current                              5.48262e-06 +/- 7.69517e-07
    Incoming Energy [0.20200424616172638, 0.23273711604003247)
      Particle: neutron
        Total Material
-         Current                              6e-06 +/- 2.38683e-06
+         Current                              4.2e-06 +/- 5.71724e-07
    Incoming Energy [0.23273711604003247, 0.26814567620160473)
      Particle: neutron
        Total Material
-         Current                              3.02316e-06 +/- 1.71421e-06
+         Current                              3.9854e-06 +/- 6.89977e-07
    Incoming Energy [0.26814567620160473, 0.3089412848668632)
      Particle: neutron
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              4.5e-06 +/- 6.25631e-07
    Incoming Energy [0.3089412848668632, 0.3559435260982109)
      Particle: neutron
        Total Material
-         Current                              9e-06 +/- 2.87623e-06
+         Current                              5.17358e-06 +/- 8.48244e-07
    Incoming Energy [0.3559435260982109, 0.4100966752495598)
      Particle: neutron
        Total Material
-         Current                              9e-06 +/- 2.87623e-06
+         Current                              5.11164e-06 +/- 7.17958e-07
    Incoming Energy [0.4100966752495598, 0.4724886694647717)
      Particle: neutron
        Total Material
-         Current                              2.37212e-06 +/- 1.45025e-06
+         Current                              6.32029e-06 +/- 8.77358e-07
    Incoming Energy [0.4724886694647717, 0.5443729643424607)
      Particle: neutron
        Total Material
-         Current                              6e-06 +/- 2.38683e-06
+         Current                              7.75736e-06 +/- 8.59828e-07
    Incoming Energy [0.5443729643424607, 0.627193715867705)
      Particle: neutron
        Total Material
-         Current                              8e-06 +/- 3.07482e-06
+         Current                              7.13721e-06 +/- 9.43873e-07
    Incoming Energy [0.627193715867705, 0.7226147935158518)
      Particle: neutron
        Total Material
-         Current                              1.1e-05 +/- 3.45096e-06
+         Current                              7.27442e-06 +/- 8.33928e-07
    Incoming Energy [0.7226147935158518, 0.8325532074018738)
      Particle: neutron
        Total Material
-         Current                              5e-06 +/- 2.19043e-06
+         Current                              6.13721e-06 +/- 7.92753e-07
    Incoming Energy [0.8325532074018738, 0.9592176210269378)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              7.70338e-06 +/- 8.73764e-07
    Incoming Energy [0.9592176210269378, 1.105152723343536)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              7.21109e-06 +/- 9.44869e-07
    Incoming Energy [1.105152723343536, 1.2732903515742826)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 3.66667e-06
+         Current                              8.22334e-06 +/- 8.58105e-07
    Incoming Energy [1.2732903515742826, 1.467008391842138)
      Particle: neutron
        Total Material
-         Current                              9e-06 +/- 2.87623e-06
+         Current                              8.11217e-06 +/- 9.4117e-07
    Incoming Energy [1.467008391842138, 1.6901986409261684)
      Particle: neutron
        Total Material
-         Current                              1.2e-05 +/- 3.26599e-06
+         Current                              9.85627e-06 +/- 9.9374e-07
    Incoming Energy [1.6901986409261684, 1.947344992485959)
      Particle: neutron
        Total Material
-         Current                              1.4e-05 +/- 3.48735e-06
+         Current                              8.02022e-06 +/- 9.0959e-07
    Incoming Energy [1.947344992485959, 2.243613518516484)
      Particle: neutron
        Total Material
-         Current                              1.1e-05 +/- 3.7322e-06
+         Current                              1.02406e-05 +/- 1.01675e-06
    Incoming Energy [2.243613518516484, 2.5849562557704893)
      Particle: neutron
        Total Material
-         Current                              1.62283e-05 +/- 4.19458e-06
+         Current                              9.34464e-06 +/- 9.65503e-07
    Incoming Energy [2.5849562557704893, 2.978230782218339)
      Particle: neutron
        Total Material
-         Current                              1.3239e-05 +/- 3.6659e-06
+         Current                              9.17121e-06 +/- 8.84167e-07
    Incoming Energy [2.978230782218339, 3.4313379858372306)
      Particle: neutron
        Total Material
-         Current                              9.83082e-06 +/- 3.23888e-06
+         Current                              1.08401e-05 +/- 9.60528e-07
    Incoming Energy [3.4313379858372306, 3.9533807935057212)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 4.11329e-06
+         Current                              1.09574e-05 +/- 1.10119e-06
    Incoming Energy [3.9533807935057212, 4.55484704886816)
      Particle: neutron
        Total Material
-         Current                              1.1e-05 +/- 3.14466e-06
+         Current                              9.67255e-06 +/- 9.06831e-07
    Incoming Energy [4.55484704886816, 5.247820213186595)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              1.04026e-05 +/- 9.62369e-07
    Incoming Energy [5.247820213186595, 6.046222122161734)
      Particle: neutron
        Total Material
-         Current                              1e-05 +/- 3.33333e-06
+         Current                              9.72026e-06 +/- 9.25235e-07
    Incoming Energy [6.046222122161734, 6.966092675709234)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 4.11329e-06
+         Current                              1.19362e-05 +/- 1.21587e-06
    Incoming Energy [6.966092675709234, 8.025912079660733)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 3.66667e-06
+         Current                              1.20947e-05 +/- 1.03667e-06
    Incoming Energy [8.025912079660733, 9.246972113227855)
      Particle: neutron
        Total Material
-         Current                              1.6e-05 +/- 3.94917e-06
+         Current                              1.23696e-05 +/- 1.0199e-06
    Incoming Energy [9.246972113227855, 10.65380388099493)
      Particle: neutron
        Total Material
-         Current                              9.83082e-06 +/- 2.96849e-06
+         Current                              1.19863e-05 +/- 1.06719e-06
    Incoming Energy [10.65380388099493, 12.274670642981077)
      Particle: neutron
        Total Material
-         Current                              8.83082e-06 +/- 3.16394e-06
+         Current                              1.2857e-05 +/- 1.13774e-06
    Incoming Energy [12.274670642981077, 14.142135623730951)
      Particle: neutron
        Total Material
-         Current                              1.08296e-05 +/- 3.41053e-06
+         Current                              1.30627e-05 +/- 1.17666e-06
    Incoming Energy [14.142135623730951, 16.293716207722802)
      Particle: neutron
        Total Material
-         Current                              1.6e-05 +/- 3.68453e-06
+         Current                              1.2953e-05 +/- 1.10613e-06
    Incoming Energy [16.293716207722802, 18.772637663884097)
      Particle: neutron
        Total Material
-         Current                              1.16593e-05 +/- 3.76282e-06
+         Current                              1.43508e-05 +/- 1.14795e-06
    Incoming Energy [18.772637663884097, 21.628701541545553)
      Particle: neutron
        Total Material
-         Current                              1.2e-05 +/- 3.26599e-06
+         Current                              1.19388e-05 +/- 1.1194e-06
    Incoming Energy [21.628701541545553, 24.919286183914224)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 3.37998e-06
+         Current                              1.52201e-05 +/- 1.18753e-06
    Incoming Energy [24.919286183914224, 28.710499459388483)
      Particle: neutron
        Total Material
-         Current                              1.2e-05 +/- 3.26599e-06
+         Current                              1.19538e-05 +/- 1.10148e-06
    Incoming Energy [28.710499459388483, 33.078506869094824)
      Particle: neutron
        Total Material
-         Current                              1.40331e-05 +/- 3.41545e-06
+         Current                              1.56324e-05 +/- 1.18194e-06
    Incoming Energy [33.078506869094824, 38.11106171233633)
      Particle: neutron
        Total Material
-         Current                              8e-06 +/- 2.7266e-06
+         Current                              1.38857e-05 +/- 1.28647e-06
    Incoming Energy [38.11106171233633, 43.909268050987265)
      Particle: neutron
        Total Material
-         Current                              1.7e-05 +/- 4.27702e-06
+         Current                              1.69549e-05 +/- 1.45802e-06
    Incoming Energy [43.909268050987265, 50.58961189080075)
      Particle: neutron
        Total Material
-         Current                              1.71987e-05 +/- 4.00336e-06
+         Current                              1.46389e-05 +/- 1.41577e-06
    Incoming Energy [50.58961189080075, 58.286301386076154)
      Particle: neutron
        Total Material
-         Current                              1.68308e-05 +/- 4.47863e-06
+         Current                              1.35215e-05 +/- 1.19215e-06
    Incoming Energy [58.286301386076154, 67.15396308241434)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 3.85992e-06
+         Current                              1.35215e-05 +/- 1.20362e-06
    Incoming Energy [67.15396308241434, 77.3707483650964)
      Particle: neutron
        Total Material
-         Current                              1.4e-05 +/- 3.76588e-06
+         Current                              1.4208e-05 +/- 1.37066e-06
    Incoming Energy [77.3707483650964, 89.14191252165533)
      Particle: neutron
        Total Material
-         Current                              1.2e-05 +/- 4.0899e-06
+         Current                              1.49873e-05 +/- 1.32681e-06
    Incoming Energy [89.14191252165533, 102.703938322034)
      Particle: neutron
        Total Material
-         Current                              1.28253e-05 +/- 3.33883e-06
+         Current                              1.32789e-05 +/- 1.02028e-06
    Incoming Energy [102.703938322034, 118.32928695908005)
      Particle: neutron
        Total Material
-         Current                              1.1e-05 +/- 3.45096e-06
+         Current                              1.52626e-05 +/- 1.18333e-06
    Incoming Energy [118.32928695908005, 136.33187179580997)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 3.66667e-06
+         Current                              1.41559e-05 +/- 1.1636e-06
    Incoming Energy [136.33187179580997, 157.0733648870596)
      Particle: neutron
        Total Material
-         Current                              3e-06 +/- 2.22702e-06
+         Current                              1.13199e-05 +/- 1.28115e-06
    Incoming Energy [157.0733648870596, 180.97046297358648)
      Particle: neutron
        Total Material
-         Current                              2.3e-05 +/- 4.46196e-06
+         Current                              1.70061e-05 +/- 1.4064e-06
    Incoming Energy [180.97046297358648, 208.50325892249575)
      Particle: neutron
        Total Material
-         Current                              1.48303e-05 +/- 4.32166e-06
+         Current                              1.44268e-05 +/- 1.11192e-06
    Incoming Energy [208.50325892249575, 240.22488679628609)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 3.85992e-06
+         Current                              1.42519e-05 +/- 1.46136e-06
    Incoming Energy [240.22488679628609, 276.77263432002053)
      Particle: neutron
        Total Material
-         Current                              2.12021e-05 +/- 5.22971e-06
+         Current                              1.54521e-05 +/- 1.14585e-06
    Incoming Energy [276.77263432002053, 318.8807459961642)
      Particle: neutron
        Total Material
-         Current                              2.67442e-05 +/- 5.42389e-06
+         Current                              1.87752e-05 +/- 1.32083e-06
    Incoming Energy [318.8807459961642, 367.3951740817562)
      Particle: neutron
        Total Material
-         Current                              1.73707e-05 +/- 4.72688e-06
+         Current                              1.48062e-05 +/- 1.1976e-06
    Incoming Energy [367.3951740817562, 423.2905737751491)
      Particle: neutron
        Total Material
-         Current                              1.31696e-05 +/- 4.13841e-06
+         Current                              1.67571e-05 +/- 1.27961e-06
    Incoming Energy [423.2905737751491, 487.68988404573685)
      Particle: neutron
        Total Material
-         Current                              2e-05 +/- 4.26401e-06
+         Current                              1.75781e-05 +/- 1.3966e-06
    Incoming Energy [487.68988404573685, 561.8868874856754)
      Particle: neutron
        Total Material
-         Current                              1.98304e-05 +/- 4.46729e-06
+         Current                              1.74911e-05 +/- 1.24402e-06
    Incoming Energy [561.8868874856754, 647.3722024111769)
      Particle: neutron
        Total Material
-         Current                              1.83615e-05 +/- 4.57918e-06
+         Current                              1.84854e-05 +/- 1.41723e-06
    Incoming Energy [647.3722024111769, 745.8632293948697)
      Particle: neutron
        Total Material
-         Current                              2.32021e-05 +/- 5.26509e-06
+         Current                              1.9265e-05 +/- 1.57705e-06
    Incoming Energy [745.8632293948697, 859.3386538552732)
      Particle: neutron
        Total Material
-         Current                              1.78293e-05 +/- 4.55149e-06
+         Current                              1.90458e-05 +/- 1.45898e-06
    Incoming Energy [859.3386538552732, 990.0781978606442)
      Particle: neutron
        Total Material
-         Current                              1.8256e-05 +/- 4.29007e-06
+         Current                              1.57226e-05 +/- 1.21602e-06
    Incoming Energy [990.0781978606442, 1140.708419761218)
      Particle: neutron
        Total Material
-         Current                              2.1e-05 +/- 4.77684e-06
+         Current                              1.84962e-05 +/- 1.43589e-06
    Incoming Energy [1140.708419761218, 1314.255481764769)
      Particle: neutron
        Total Material
-         Current                              2.3744e-05 +/- 5.67786e-06
+         Current                              1.8896e-05 +/- 1.66202e-06
    Incoming Energy [1314.255481764769, 1514.2059455564554)
      Particle: neutron
        Total Material
-         Current                              2.3e-05 +/- 5.29055e-06
+         Current                              1.8848e-05 +/- 1.42559e-06
    Incoming Energy [1514.2059455564554, 1744.576817347373)
      Particle: neutron
        Total Material
-         Current                              1.78308e-05 +/- 4.08383e-06
+         Current                              1.91526e-05 +/- 1.24769e-06
    Incoming Energy [1744.576817347373, 2009.996249557332)
      Particle: neutron
        Total Material
-         Current                              2.46616e-05 +/- 4.91958e-06
+         Current                              1.95072e-05 +/- 1.48579e-06
    Incoming Energy [2009.996249557332, 2315.7965204292263)
      Particle: neutron
        Total Material
-         Current                              2.21164e-05 +/- 4.32564e-06
+         Current                              1.7518e-05 +/- 1.33383e-06
    Incoming Energy [2315.7965204292263, 2668.121159536096)
      Particle: neutron
        Total Material
-         Current                              1.93721e-05 +/- 4.64776e-06
+         Current                              1.85679e-05 +/- 1.17072e-06
    Incoming Energy [2668.121159536096, 3074.0483713330545)
      Particle: neutron
        Total Material
-         Current                              1.98303e-05 +/- 4.68794e-06
+         Current                              1.77624e-05 +/- 1.37999e-06
    Incoming Energy [3074.0483713330545, 3541.7332363341625)
      Particle: neutron
        Total Material
-         Current                              1.86279e-05 +/- 4.81205e-06
+         Current                              1.96054e-05 +/- 1.54174e-06
    Incoming Energy [3541.7332363341625, 4080.5715467367336)
      Particle: neutron
        Total Material
-         Current                              2.66424e-05 +/- 5.30462e-06
+         Current                              1.8337e-05 +/- 1.48805e-06
    Incoming Energy [4080.5715467367336, 4701.388567952099)
      Particle: neutron
        Total Material
-         Current                              2.03721e-05 +/- 5.12354e-06
+         Current                              2.24414e-05 +/- 1.68266e-06
    Incoming Energy [4701.388567952099, 5416.656518263153)
      Particle: neutron
        Total Material
-         Current                              1.98742e-05 +/- 3.93663e-06
+         Current                              2.09811e-05 +/- 1.44112e-06
    Incoming Energy [5416.656518263153, 6240.745135776586)
      Particle: neutron
        Total Material
-         Current                              2e-05 +/- 4.26401e-06
+         Current                              2.17667e-05 +/- 1.63711e-06
    Incoming Energy [6240.745135776586, 7190.210366561586)
      Particle: neutron
        Total Material
-         Current                              2.3e-05 +/- 4.89382e-06
+         Current                              2.06584e-05 +/- 1.29399e-06
    Incoming Energy [7190.210366561586, 8284.126973721764)
      Particle: neutron
        Total Material
-         Current                              1.55747e-05 +/- 4.17844e-06
+         Current                              1.86711e-05 +/- 1.29614e-06
    Incoming Energy [8284.126973721764, 9544.47174951883)
      Particle: neutron
        Total Material
-         Current                              2.037e-05 +/- 4.26254e-06
+         Current                              2.08882e-05 +/- 1.61465e-06
    Incoming Energy [9544.47174951883, 10996.56502928231)
      Particle: neutron
        Total Material
-         Current                              2.13721e-05 +/- 5.32379e-06
+         Current                              2.0711e-05 +/- 1.35761e-06
    Incoming Energy [10996.56502928231, 12669.579377122773)
      Particle: neutron
        Total Material
-         Current                              2.80237e-05 +/- 5.54199e-06
+         Current                              2.62675e-05 +/- 1.49124e-06
    Incoming Energy [12669.579377122773, 14597.125662948121)
      Particle: neutron
        Total Material
-         Current                              1.99213e-05 +/- 4.15827e-06
+         Current                              2.19792e-05 +/- 1.465e-06
    Incoming Energy [14597.125662948121, 16817.92830507429)
      Particle: neutron
        Total Material
-         Current                              2.2e-05 +/- 4.83673e-06
+         Current                              2.5685e-05 +/- 1.59794e-06
    Incoming Energy [16817.92830507429, 19376.603244059108)
      Particle: neutron
        Total Material
-         Current                              3.33232e-05 +/- 6.5134e-06
+         Current                              2.61177e-05 +/- 1.64785e-06
    Incoming Energy [19376.603244059108, 22324.55427725903)
      Particle: neutron
        Total Material
-         Current                              3.43721e-05 +/- 5.88819e-06
+         Current                              2.69624e-05 +/- 1.61658e-06
    Incoming Energy [22324.55427725903, 25721.005761476288)
      Particle: neutron
        Total Material
-         Current                              7.62397e-05 +/- 8.88111e-06
+         Current                              6.0065e-05 +/- 2.68698e-06
    Incoming Energy [25721.005761476288, 29634.1924306998)
      Particle: neutron
        Total Material
-         Current                              3.31838e-05 +/- 6.01225e-06
+         Current                              2.97976e-05 +/- 1.93756e-06
    Incoming Energy [29634.1924306998, 34142.73023238656)
      Particle: neutron
        Total Material
-         Current                              3.6e-05 +/- 6.89312e-06
+         Current                              2.98424e-05 +/- 1.65023e-06
    Incoming Energy [34142.73023238656, 39337.19572239394)
      Particle: neutron
        Total Material
-         Current                              2.43721e-05 +/- 5.14423e-06
+         Current                              2.96324e-05 +/- 1.80032e-06
    Incoming Energy [39337.19572239394, 45321.94574861815)
      Particle: neutron
        Total Material
-         Current                              3.7e-05 +/- 5.80056e-06
+         Current                              3.69318e-05 +/- 2.04043e-06
    Incoming Energy [45321.94574861815, 52217.21398079572)
      Particle: neutron
        Total Material
-         Current                              3.6e-05 +/- 5.59942e-06
+         Current                              3.98849e-05 +/- 1.81351e-06
    Incoming Energy [52217.21398079572, 60161.52640576651)
      Particle: neutron
        Total Material
-         Current                              3.44047e-05 +/- 6.15277e-06
+         Current                              3.85792e-05 +/- 1.84948e-06
    Incoming Energy [60161.52640576651, 69314.48431551472)
      Particle: neutron
        Total Material
-         Current                              4.4643e-05 +/- 6.65106e-06
+         Current                              4.54318e-05 +/- 2.11594e-06
    Incoming Energy [69314.48431551472, 79859.9706982372)
      Particle: neutron
        Total Material
-         Current                              5.90247e-05 +/- 7.15393e-06
+         Current                              5.31961e-05 +/- 2.38828e-06
    Incoming Energy [79859.9706982372, 92009.8444488578)
      Particle: neutron
        Total Material
-         Current                              5.35514e-05 +/- 7.42848e-06
+         Current                              6.22407e-05 +/- 2.58864e-06
    Incoming Energy [92009.8444488578, 106008.19661570266)
      Particle: neutron
        Total Material
-         Current                              5.19183e-05 +/- 7.39503e-06
+         Current                              6.05304e-05 +/- 2.69059e-06
    Incoming Energy [106008.19661570266, 122136.25419136346)
      Particle: neutron
        Total Material
-         Current                              5.89025e-05 +/- 7.93937e-06
+         Current                              6.43264e-05 +/- 2.40702e-06
    Incoming Energy [122136.25419136346, 140718.0299649367)
      Particle: neutron
        Total Material
-         Current                              0.000120639 +/- 1.20921e-05
+         Current                              0.000115909 +/- 3.17958e-06
    Incoming Energy [140718.0299649367, 162126.831941216)
      Particle: neutron
        Total Material
-         Current                              6.77128e-05 +/- 8.61384e-06
+         Current                              6.42856e-05 +/- 2.74822e-06
    Incoming Energy [162126.831941216, 186792.76310110986)
      Particle: neutron
        Total Material
-         Current                              0.000146407 +/- 1.15796e-05
+         Current                              0.000127811 +/- 3.6376e-06
    Incoming Energy [186792.76310110986, 215211.36217352553)
      Particle: neutron
        Total Material
-         Current                              8.28672e-05 +/- 8.52833e-06
+         Current                              7.70965e-05 +/- 2.9553e-06
    Incoming Energy [215211.36217352553, 247953.5590118865)
      Particle: neutron
        Total Material
-         Current                              0.000105042 +/- 1.17348e-05
+         Current                              0.000113167 +/- 3.34156e-06
    Incoming Energy [247953.5590118865, 285677.14457886666)
      Particle: neutron
        Total Material
-         Current                              0.000148318 +/- 1.2804e-05
+         Current                              0.000128245 +/- 4.16274e-06
    Incoming Energy [285677.14457886666, 329139.9859714147)
      Particle: neutron
        Total Material
-         Current                              0.000182119 +/- 1.34868e-05
+         Current                              0.000177831 +/- 3.69079e-06
    Incoming Energy [329139.9859714147, 379215.2519760139)
      Particle: neutron
        Total Material
-         Current                              0.000251421 +/- 1.5141e-05
+         Current                              0.000219944 +/- 4.7978e-06
    Incoming Energy [379215.2519760139, 436908.9550356878)
      Particle: neutron
        Total Material
-         Current                              0.00011057 +/- 1.24089e-05
+         Current                              0.000121455 +/- 3.70525e-06
    Incoming Energy [436908.9550356878, 503380.1620469915)
      Particle: neutron
        Total Material
-         Current                              0.00018061 +/- 1.48505e-05
+         Current                              0.000163698 +/- 3.8862e-06
    Incoming Energy [503380.1620469915, 579964.2800220422)
      Particle: neutron
        Total Material
-         Current                              0.000174991 +/- 1.38146e-05
+         Current                              0.000171815 +/- 4.39962e-06
    Incoming Energy [579964.2800220422, 668199.8844246987)
      Particle: neutron
        Total Material
-         Current                              0.000310632 +/- 2.09133e-05
+         Current                              0.000274359 +/- 5.86321e-06
    Incoming Energy [668199.8844246987, 769859.6291623531)
      Particle: neutron
        Total Material
-         Current                              0.000203464 +/- 1.32025e-05
+         Current                              0.000202611 +/- 4.77986e-06
    Incoming Energy [769859.6291623531, 886985.8592152859)
      Particle: neutron
        Total Material
-         Current                              0.000188608 +/- 1.4327e-05
+         Current                              0.000178353 +/- 4.56562e-06
    Incoming Energy [886985.8592152859, 1021931.6413615512)
      Particle: neutron
        Total Material
-         Current                              0.000247048 +/- 1.63975e-05
+         Current                              0.000197703 +/- 5.0371e-06
    Incoming Energy [1021931.6413615512, 1177408.03730495)
      Particle: neutron
        Total Material
-         Current                              0.000201208 +/- 1.59213e-05
+         Current                              0.000197537 +/- 4.67065e-06
    Incoming Energy [1177408.03730495, 1356538.5689235511)
      Particle: neutron
        Total Material
-         Current                              0.00019686 +/- 1.46204e-05
+         Current                              0.000200169 +/- 4.33517e-06
    Incoming Energy [1356538.5689235511, 1562921.9698459923)
      Particle: neutron
        Total Material
-         Current                              0.000167033 +/- 1.42309e-05
+         Current                              0.00017815 +/- 4.8434e-06
    Incoming Energy [1562921.9698459923, 1800704.4840351595)
      Particle: neutron
        Total Material
-         Current                              0.000192065 +/- 1.37154e-05
+         Current                              0.000186099 +/- 4.68152e-06
    Incoming Energy [1800704.4840351595, 2074663.1638582982)
      Particle: neutron
        Total Material
-         Current                              0.000152403 +/- 1.42019e-05
+         Current                              0.00017311 +/- 4.10047e-06
    Incoming Energy [2074663.1638582982, 2390301.841102364)
      Particle: neutron
        Total Material
-         Current                              0.000180659 +/- 1.43891e-05
+         Current                              0.000178201 +/- 4.52398e-06
    Incoming Energy [2390301.841102364, 2753961.69899298)
      Particle: neutron
        Total Material
-         Current                              0.000143 +/- 1.28908e-05
+         Current                              0.000159863 +/- 4.35266e-06
    Incoming Energy [2753961.69899298, 3172948.666609635)
      Particle: neutron
        Total Material
-         Current                              0.00016483 +/- 1.29483e-05
+         Current                              0.000172931 +/- 4.54951e-06
    Incoming Energy [3172948.666609635, 3655680.195051795)
      Particle: neutron
        Total Material
-         Current                              0.000205829 +/- 1.48403e-05
+         Current                              0.000179766 +/- 4.40726e-06
    Incoming Energy [3655680.195051795, 4211854.3640902)
      Particle: neutron
        Total Material
-         Current                              0.000154 +/- 1.34405e-05
+         Current                              0.0001878 +/- 4.13064e-06
    Incoming Energy [4211854.3640902, 4852644.716656982)
      Particle: neutron
        Total Material
-         Current                              0.000156 +/- 1.33576e-05
+         Current                              0.0001931 +/- 3.90207e-06
    Incoming Energy [4852644.716656982, 5590924.735401089)
      Particle: neutron
        Total Material
-         Current                              0.000208 +/- 1.46115e-05
+         Current                              0.0002189 +/- 4.49668e-06
    Incoming Energy [5590924.735401089, 6441526.471044408)
      Particle: neutron
        Total Material
-         Current                              0.00022 +/- 1.69372e-05
+         Current                              0.0002379 +/- 4.79751e-06
    Incoming Energy [6441526.471044408, 7421538.518384137)
      Particle: neutron
        Total Material
-         Current                              0.000253 +/- 1.53383e-05
+         Current                              0.0002935 +/- 5.54572e-06
    Incoming Energy [7421538.518384137, 8550649.326281361)
      Particle: neutron
        Total Material
-         Current                              0.000321 +/- 1.47227e-05
+         Current                              0.0003453 +/- 5.42619e-06
    Incoming Energy [8550649.326281361, 9851542.738735879)
      Particle: neutron
        Total Material
-         Current                              0.000507 +/- 2.26638e-05
+         Current                              0.0005199 +/- 6.76368e-06
    Incoming Energy [9851542.738735879, 11350353.713470262)
      Particle: neutron
        Total Material
-         Current                              0.000402 +/- 2.15547e-05
+         Current                              0.0004505 +/- 8.08337e-06
    Incoming Energy [11350353.713470262, 13077193.37341263)
      Particle: neutron
        Total Material
-         Current                              0.000801 +/- 2.89372e-05
+         Current                              0.000783 +/- 8.1594e-06
    Incoming Energy [13077193.37341263, 15066753.939366143)
      Particle: neutron
        Total Material
-         Current                              0.021295 +/- 0.000137858
+         Current                              0.0212231 +/- 4.71708e-05
    Incoming Energy [15066753.939366143, 17359005.696966715)
      Particle: neutron
        Total Material
@@ -807,11 +807,11 @@
    Incoming Energy [10000, 10387.359199536364)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              3e-07 +/- 1.71447e-07
    Incoming Energy [10387.359199536364, 10789.723114019273)
      Particle: photon
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [10789.723114019273, 11207.672964885822)
      Particle: photon
        Total Material
@@ -819,743 +819,743 @@
    Incoming Energy [11207.672964885822, 11641.812487720174)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              3e-07 +/- 1.71447e-07
    Incoming Energy [11641.812487720174, 12092.768804359746)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [12092.768804359746, 12561.193328783253)
      Particle: photon
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              5.30608e-07 +/- 2.14566e-07
    Incoming Energy [12561.193328783253, 13047.762708089153)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              7e-07 +/- 2.56432e-07
    Incoming Energy [13047.762708089153, 13553.179799923735)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              7e-07 +/- 2.56432e-07
    Incoming Energy [13553.179799923735, 14078.174687770821)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              7e-07 +/- 2.93189e-07
    Incoming Energy [14078.174687770821, 14623.505735569623)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              3e-07 +/- 2.22702e-07
    Incoming Energy [14623.505735569623, 15189.960683184187)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              1e-06 +/- 3.01511e-07
    Incoming Energy [15189.960683184187, 15778.357784306894)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              5e-07 +/- 2.19043e-07
    Incoming Energy [15778.357784306894, 16389.54698843964)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              9e-07 +/- 2.87623e-07
    Incoming Energy [16389.54698843964, 17024.411168660197)
      Particle: photon
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              1.47896e-06 +/- 4.07458e-07
    Incoming Energy [17024.411168660197, 17683.86739694721)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              1.08308e-06 +/- 3.91563e-07
    Incoming Energy [17683.86739694721, 18368.868268906077)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              1.73278e-06 +/- 4.27642e-07
    Incoming Energy [18368.868268906077, 19080.403279809314)
      Particle: photon
        Total Material
-         Current                              4e-06 +/- 1.96946e-06
+         Current                              3.8e-06 +/- 6.32136e-07
    Incoming Energy [19080.403279809314, 19819.500253939106)
      Particle: photon
        Total Material
-         Current                              2.34666e-06 +/- 1.44429e-06
+         Current                              5.99077e-06 +/- 9.24254e-07
    Incoming Energy [19819.500253939106, 20587.226829296767)
      Particle: photon
        Total Material
-         Current                              5.37212e-06 +/- 2.21334e-06
+         Current                              6.8096e-06 +/- 9.21044e-07
    Incoming Energy [20587.226829296767, 21384.69199982376)
      Particle: photon
        Total Material
-         Current                              1e-05 +/- 3.01511e-06
+         Current                              1.47831e-05 +/- 1.2424e-06
    Incoming Energy [21384.69199982376, 22213.0477173621)
      Particle: photon
        Total Material
-         Current                              2.7e-05 +/- 5.47815e-06
+         Current                              2.40652e-05 +/- 1.63553e-06
    Incoming Energy [22213.0477173621, 23073.49055566814)
      Particle: photon
        Total Material
-         Current                              3.81737e-05 +/- 6.86168e-06
+         Current                              3.89064e-05 +/- 1.86462e-06
    Incoming Energy [23073.49055566814, 23967.263438883492)
      Particle: photon
        Total Material
-         Current                              5.80607e-05 +/- 8.29144e-06
+         Current                              5.53765e-05 +/- 2.28819e-06
    Incoming Energy [23967.263438883492, 24895.65743695979)
      Particle: photon
        Total Material
-         Current                              9.52029e-05 +/- 1.00343e-05
+         Current                              7.70088e-05 +/- 2.85333e-06
    Incoming Energy [24895.65743695979, 25860.01363063102)
      Particle: photon
        Total Material
-         Current                              0.000114768 +/- 1.0675e-05
+         Current                              9.57615e-05 +/- 2.9154e-06
    Incoming Energy [25860.01363063102, 26861.725048627086)
      Particle: photon
        Total Material
-         Current                              0.000139376 +/- 1.16534e-05
+         Current                              0.000136792 +/- 3.40934e-06
    Incoming Energy [26861.725048627086, 27902.238679927294)
      Particle: photon
        Total Material
-         Current                              0.000170215 +/- 1.19714e-05
+         Current                              0.000169959 +/- 4.10358e-06
    Incoming Energy [27902.238679927294, 28983.05756396021)
      Particle: photon
        Total Material
-         Current                              0.000215629 +/- 1.48636e-05
+         Current                              0.000220178 +/- 4.44253e-06
    Incoming Energy [28983.05756396021, 30105.742961769403)
      Particle: photon
        Total Material
-         Current                              0.000276826 +/- 1.68919e-05
+         Current                              0.000256133 +/- 5.77133e-06
    Incoming Energy [30105.742961769403, 31271.916611281253)
      Particle: photon
        Total Material
-         Current                              0.000337675 +/- 1.81196e-05
+         Current                              0.000324992 +/- 5.73553e-06
    Incoming Energy [31271.916611281253, 32483.263069932636)
      Particle: photon
        Total Material
-         Current                              0.000342952 +/- 1.82945e-05
+         Current                              0.000361673 +/- 6.28308e-06
    Incoming Energy [32483.263069932636, 33741.53214804245)
      Particle: photon
        Total Material
-         Current                              0.000436931 +/- 2.30132e-05
+         Current                              0.000416162 +/- 6.97106e-06
    Incoming Energy [33741.53214804245, 35048.54143644208)
      Particle: photon
        Total Material
-         Current                              0.000437486 +/- 2.05813e-05
+         Current                              0.000457638 +/- 6.95138e-06
    Incoming Energy [35048.54143644208, 36406.178932015806)
      Particle: photon
        Total Material
-         Current                              0.000526311 +/- 2.63187e-05
+         Current                              0.000528549 +/- 8.48408e-06
    Incoming Energy [36406.178932015806, 37816.405764944124)
      Particle: photon
        Total Material
-         Current                              0.000561139 +/- 2.71113e-05
+         Current                              0.000564156 +/- 7.90628e-06
    Incoming Energy [37816.405764944124, 39281.25903158923)
      Particle: photon
        Total Material
-         Current                              0.000625577 +/- 2.56856e-05
+         Current                              0.000608308 +/- 8.14825e-06
    Incoming Energy [39281.25903158923, 40802.85473711493)
      Particle: photon
        Total Material
-         Current                              0.000696825 +/- 2.73439e-05
+         Current                              0.000650243 +/- 9.11475e-06
    Incoming Energy [40802.85473711493, 42383.39085209166)
      Particle: photon
        Total Material
-         Current                              0.000725309 +/- 2.65791e-05
+         Current                              0.000687595 +/- 7.95691e-06
    Incoming Energy [42383.39085209166, 44025.15048750197)
      Particle: photon
        Total Material
-         Current                              0.000705442 +/- 2.92534e-05
+         Current                              0.000742719 +/- 8.67796e-06
    Incoming Energy [44025.15048750197, 45730.505192732635)
      Particle: photon
        Total Material
-         Current                              0.000702271 +/- 2.63931e-05
+         Current                              0.000743112 +/- 8.75518e-06
    Incoming Energy [45730.505192732635, 47501.918381317664)
      Particle: photon
        Total Material
-         Current                              0.000738059 +/- 2.75037e-05
+         Current                              0.00077911 +/- 8.38491e-06
    Incoming Energy [47501.918381317664, 49341.94888938056)
      Particle: photon
        Total Material
-         Current                              0.000832543 +/- 2.61351e-05
+         Current                              0.000792707 +/- 8.13218e-06
    Incoming Energy [49341.94888938056, 51253.25467191602)
      Particle: photon
        Total Material
-         Current                              0.000805135 +/- 2.6302e-05
+         Current                              0.000825084 +/- 9.41396e-06
    Incoming Energy [51253.25467191602, 53238.596642250704)
      Particle: photon
        Total Material
-         Current                              0.000856322 +/- 3.02796e-05
+         Current                              0.000841053 +/- 9.829e-06
    Incoming Energy [53238.596642250704, 55300.84266022885)
      Particle: photon
        Total Material
-         Current                              0.000902439 +/- 2.92992e-05
+         Current                              0.000872049 +/- 1.0218e-05
    Incoming Energy [55300.84266022885, 57442.97167488412)
      Particle: photon
        Total Material
-         Current                              0.000843783 +/- 2.98647e-05
+         Current                              0.000895025 +/- 9.28952e-06
    Incoming Energy [57442.97167488412, 59668.07802758142)
      Particle: photon
        Total Material
-         Current                              0.000963616 +/- 3.19226e-05
+         Current                              0.000899047 +/- 8.5031e-06
    Incoming Energy [59668.07802758142, 61979.37592184514)
      Particle: photon
        Total Material
-         Current                              0.000893513 +/- 2.85249e-05
+         Current                              0.0008836 +/- 1.01584e-05
    Incoming Energy [61979.37592184514, 64380.20406633007)
      Particle: photon
        Total Material
-         Current                              0.000963187 +/- 3.09654e-05
+         Current                              0.000925894 +/- 9.78055e-06
    Incoming Energy [64380.20406633007, 66874.0304976422)
      Particle: photon
        Total Material
-         Current                              0.000937192 +/- 3.19445e-05
+         Current                              0.000922782 +/- 8.73923e-06
    Incoming Energy [66874.0304976422, 69464.45758997591)
      Particle: photon
        Total Material
-         Current                              0.000934329 +/- 3.26855e-05
+         Current                              0.000931016 +/- 9.34483e-06
    Incoming Energy [69464.45758997591, 72155.22725880398)
      Particle: photon
        Total Material
-         Current                              0.000949141 +/- 3.40475e-05
+         Current                              0.000929893 +/- 9.92753e-06
    Incoming Energy [72155.22725880398, 74950.22636613746)
      Particle: photon
        Total Material
-         Current                              0.000894651 +/- 2.87999e-05
+         Current                              0.00093091 +/- 9.88967e-06
    Incoming Energy [74950.22636613746, 77853.49233516307)
      Particle: photon
        Total Material
-         Current                              0.000944635 +/- 3.25779e-05
+         Current                              0.000951819 +/- 9.71816e-06
    Incoming Energy [77853.49233516307, 80869.218982369)
      Particle: photon
        Total Material
-         Current                              0.000907253 +/- 2.90179e-05
+         Current                              0.000949685 +/- 1.04286e-05
    Incoming Energy [80869.218982369, 84001.76257558312)
      Particle: photon
        Total Material
-         Current                              0.000969614 +/- 3.13328e-05
+         Current                              0.000967041 +/- 1.00473e-05
    Incoming Energy [84001.76257558312, 87255.64812667525)
      Particle: photon
        Total Material
-         Current                              0.000961297 +/- 3.01357e-05
+         Current                              0.000952846 +/- 9.33614e-06
    Incoming Energy [87255.64812667525, 90635.5759280128)
      Particle: photon
        Total Material
-         Current                              0.000999655 +/- 3.44963e-05
+         Current                              0.000964995 +/- 1.1086e-05
    Incoming Energy [90635.5759280128, 94146.42834211203)
      Particle: photon
        Total Material
-         Current                              0.00094166 +/- 2.92802e-05
+         Current                              0.000960731 +/- 9.70754e-06
    Incoming Energy [94146.42834211203, 97793.27685429284)
      Particle: photon
        Total Material
-         Current                              0.000960528 +/- 3.40915e-05
+         Current                              0.000973538 +/- 9.64753e-06
    Incoming Energy [97793.27685429284, 101581.38939852452)
      Particle: photon
        Total Material
-         Current                              0.000903749 +/- 3.14557e-05
+         Current                              0.000977064 +/- 8.97478e-06
    Incoming Energy [101581.38939852452, 105516.23796704493)
      Particle: photon
        Total Material
-         Current                              0.000959409 +/- 3.43252e-05
+         Current                              0.000972634 +/- 1.00953e-05
    Incoming Energy [105516.23796704493, 109603.50651474524)
      Particle: photon
        Total Material
-         Current                              0.000994438 +/- 3.21972e-05
+         Current                              0.000991381 +/- 9.63896e-06
    Incoming Energy [109603.50651474524, 113849.09916973827)
      Particle: photon
        Total Material
-         Current                              0.00103485 +/- 3.48486e-05
+         Current                              0.000991246 +/- 1.03898e-05
    Incoming Energy [113849.09916973827, 118259.14876197085)
      Particle: photon
        Total Material
-         Current                              0.000934412 +/- 3.41145e-05
+         Current                              0.000966885 +/- 1.05014e-05
    Incoming Energy [118259.14876197085, 122840.02568219973)
      Particle: photon
        Total Material
-         Current                              0.000973498 +/- 2.9547e-05
+         Current                              0.000955297 +/- 1.01018e-05
    Incoming Energy [122840.02568219973, 127598.34708412805)
      Particle: photon
        Total Material
-         Current                              0.000936082 +/- 3.08464e-05
+         Current                              0.000937487 +/- 9.31765e-06
    Incoming Energy [127598.34708412805, 132540.98644299514)
      Particle: photon
        Total Material
-         Current                              0.000953217 +/- 3.04481e-05
+         Current                              0.000932523 +/- 1.01034e-05
    Incoming Energy [132540.98644299514, 137675.08348442696)
      Particle: photon
        Total Material
-         Current                              0.000921489 +/- 3.00657e-05
+         Current                              0.000905638 +/- 8.76904e-06
    Incoming Energy [137675.08348442696, 143008.0544978899)
      Particle: photon
        Total Material
-         Current                              0.000910418 +/- 3.0844e-05
+         Current                              0.00089767 +/- 9.01277e-06
    Incoming Energy [143008.0544978899, 148547.60304964546)
      Particle: photon
        Total Material
-         Current                              0.000879416 +/- 2.86419e-05
+         Current                              0.000904041 +/- 1.16926e-05
    Incoming Energy [148547.60304964546, 154301.73111068105)
      Particle: photon
        Total Material
-         Current                              0.000878533 +/- 2.80125e-05
+         Current                              0.000903755 +/- 8.96777e-06
    Incoming Energy [154301.73111068105, 160278.7506156919)
      Particle: photon
        Total Material
-         Current                              0.000893168 +/- 2.92556e-05
+         Current                              0.000905221 +/- 1.00722e-05
    Incoming Energy [160278.7506156919, 166487.2954698102)
      Particle: photon
        Total Material
-         Current                              0.000870604 +/- 2.52171e-05
+         Current                              0.000902541 +/- 9.30695e-06
    Incoming Energy [166487.2954698102, 172936.33402042615)
      Particle: photon
        Total Material
-         Current                              0.000936856 +/- 3.0711e-05
+         Current                              0.000936055 +/- 1.07769e-05
    Incoming Energy [172936.33402042615, 179635.18201211674)
      Particle: photon
        Total Material
-         Current                              0.00098054 +/- 2.84786e-05
+         Current                              0.000956475 +/- 1.07131e-05
    Incoming Energy [179635.18201211674, 186593.51604339498)
      Particle: photon
        Total Material
-         Current                              0.000895315 +/- 3.0156e-05
+         Current                              0.000940315 +/- 1.07807e-05
    Incoming Energy [186593.51604339498, 193821.3875447195)
      Particle: photon
        Total Material
-         Current                              0.0008915 +/- 2.88311e-05
+         Current                              0.000929119 +/- 1.06066e-05
    Incoming Energy [193821.3875447195, 201329.23729795447)
      Particle: photon
        Total Material
-         Current                              0.00093912 +/- 2.97737e-05
+         Current                              0.000932303 +/- 9.14747e-06
    Incoming Energy [201329.23729795447, 209127.91051825468)
      Particle: photon
        Total Material
-         Current                              0.000944045 +/- 2.93602e-05
+         Current                              0.000910842 +/- 9.6519e-06
    Incoming Energy [209127.91051825468, 217228.67252016102)
      Particle: photon
        Total Material
-         Current                              0.000931118 +/- 2.90249e-05
+         Current                              0.000908116 +/- 7.95751e-06
    Incoming Energy [217228.67252016102, 225643.22499053655)
      Particle: photon
        Total Material
-         Current                              0.000876634 +/- 2.89917e-05
+         Current                              0.00089987 +/- 9.32842e-06
    Incoming Energy [225643.22499053655, 234383.72289185037)
      Particle: photon
        Total Material
-         Current                              0.000904225 +/- 2.81969e-05
+         Current                              0.000903823 +/- 1.14249e-05
    Incoming Energy [234383.72289185037, 243462.79202022433)
      Particle: photon
        Total Material
-         Current                              0.000882396 +/- 2.67757e-05
+         Current                              0.000904331 +/- 9.43336e-06
    Incoming Energy [243462.79202022433, 252893.5472436086)
      Particle: photon
        Total Material
-         Current                              0.000882656 +/- 3.38767e-05
+         Current                              0.000885506 +/- 9.9404e-06
    Incoming Energy [252893.5472436086, 262689.61144642817)
      Particle: photon
        Total Material
-         Current                              0.000878557 +/- 2.81106e-05
+         Current                              0.000882667 +/- 9.07781e-06
    Incoming Energy [262689.61144642817, 272865.1352080688)
      Particle: photon
        Total Material
-         Current                              0.00089496 +/- 2.98293e-05
+         Current                              0.000886788 +/- 8.7369e-06
    Incoming Energy [272865.1352080688, 283434.8172436267)
      Particle: photon
        Total Material
-         Current                              0.000889829 +/- 3.04429e-05
+         Current                              0.000899748 +/- 9.77975e-06
    Incoming Energy [283434.8172436267, 294413.92563644936)
      Particle: photon
        Total Material
-         Current                              0.000893898 +/- 2.95109e-05
+         Current                              0.000910871 +/- 9.83287e-06
    Incoming Energy [294413.92563644936, 305818.3198931388)
      Particle: photon
        Total Material
-         Current                              0.000896104 +/- 3.17464e-05
+         Current                              0.000911884 +/- 9.93744e-06
    Incoming Energy [305818.3198931388, 317664.47385287494)
      Particle: photon
        Total Material
-         Current                              0.000909636 +/- 3.1752e-05
+         Current                              0.000918654 +/- 9.52234e-06
    Incoming Energy [317664.47385287494, 329969.49948415393)
      Particle: photon
        Total Material
-         Current                              0.000993545 +/- 3.39407e-05
+         Current                              0.000945841 +/- 1.01128e-05
    Incoming Energy [329969.49948415393, 342751.17160331353)
      Particle: photon
        Total Material
-         Current                              0.000919854 +/- 2.76481e-05
+         Current                              0.00094877 +/- 1.01441e-05
    Incoming Energy [342751.17160331353, 356027.9535505544)
      Particle: photon
        Total Material
-         Current                              0.000990081 +/- 3.23015e-05
+         Current                              0.000987012 +/- 9.97107e-06
    Incoming Energy [356027.9535505544, 369819.02386054565)
      Particle: photon
        Total Material
-         Current                              0.00099046 +/- 2.97675e-05
+         Current                              0.0010231 +/- 9.53006e-06
    Incoming Energy [369819.02386054565, 384144.3039661397)
      Particle: photon
        Total Material
-         Current                              0.00104764 +/- 3.35335e-05
+         Current                              0.00103031 +/- 1.07003e-05
    Incoming Energy [384144.3039661397, 399024.4869752174)
      Particle: photon
        Total Material
-         Current                              0.00106764 +/- 3.22735e-05
+         Current                              0.00106405 +/- 9.39103e-06
    Incoming Energy [399024.4869752174, 414481.0675622303)
      Particle: photon
        Total Material
-         Current                              0.00109191 +/- 3.95905e-05
+         Current                              0.00108005 +/- 1.07795e-05
    Incoming Energy [414481.0675622303, 430536.37301761855)
      Particle: photon
        Total Material
-         Current                              0.00109683 +/- 3.53125e-05
+         Current                              0.00111614 +/- 1.03335e-05
    Incoming Energy [430536.37301761855, 447213.59549995797)
      Particle: photon
        Total Material
-         Current                              0.00120096 +/- 3.73036e-05
+         Current                              0.00115689 +/- 1.13834e-05
    Incoming Energy [447213.59549995797, 464536.8255374222)
      Particle: photon
        Total Material
-         Current                              0.00120218 +/- 3.72867e-05
+         Current                              0.00118528 +/- 1.21952e-05
    Incoming Energy [464536.8255374222, 482531.08682695613)
      Particle: photon
        Total Material
-         Current                              0.00925733 +/- 9.24989e-05
+         Current                              0.00931076 +/- 3.30339e-05
    Incoming Energy [482531.08682695613, 501222.3723814262)
      Particle: photon
        Total Material
-         Current                              0.000176192 +/- 1.22472e-05
+         Current                              0.000173554 +/- 4.22757e-06
    Incoming Energy [501222.3723814262, 520637.68207696493)
      Particle: photon
        Total Material
-         Current                              0.000395316 +/- 2.20102e-05
+         Current                              0.000377577 +/- 5.7419e-06
    Incoming Energy [520637.68207696493, 540805.0616547449)
      Particle: photon
        Total Material
-         Current                              0.000154763 +/- 1.23771e-05
+         Current                              0.000153325 +/- 3.75025e-06
    Incoming Energy [540805.0616547449, 561753.6432335245)
      Particle: photon
        Total Material
-         Current                              0.000155203 +/- 1.18925e-05
+         Current                              0.000163629 +/- 4.16219e-06
    Incoming Energy [561753.6432335245, 583513.687391482)
      Particle: photon
        Total Material
-         Current                              0.000139568 +/- 1.20703e-05
+         Current                              0.000157587 +/- 3.79952e-06
    Incoming Energy [583513.687391482, 606116.6268781296)
      Particle: photon
        Total Material
-         Current                              0.00016521 +/- 1.26067e-05
+         Current                              0.000167061 +/- 3.90679e-06
    Incoming Energy [606116.6268781296, 629595.1120194489)
      Particle: photon
        Total Material
-         Current                              0.000175744 +/- 1.35552e-05
+         Current                              0.000156274 +/- 3.94209e-06
    Incoming Energy [629595.1120194489, 653983.0578818349)
      Particle: photon
        Total Material
-         Current                              0.000156011 +/- 1.37403e-05
+         Current                              0.000160176 +/- 3.8278e-06
    Incoming Energy [653983.0578818349, 679315.6932629801)
      Particle: photon
        Total Material
-         Current                              0.0001673 +/- 1.37479e-05
+         Current                              0.000173209 +/- 3.81852e-06
    Incoming Energy [679315.6932629801, 705629.6115804638)
      Particle: photon
        Total Material
-         Current                              0.000177404 +/- 1.28956e-05
+         Current                              0.000180894 +/- 3.75347e-06
    Incoming Energy [705629.6115804638, 732962.8237315596)
      Particle: photon
        Total Material
-         Current                              0.000193674 +/- 1.31738e-05
+         Current                              0.000186579 +/- 4.29252e-06
    Incoming Energy [732962.8237315596, 761354.8130006166)
      Particle: photon
        Total Material
-         Current                              0.000222661 +/- 1.51945e-05
+         Current                              0.000206493 +/- 4.52652e-06
    Incoming Energy [761354.8130006166, 790846.5920933242)
      Particle: photon
        Total Material
-         Current                              0.000218597 +/- 1.26175e-05
+         Current                              0.000209315 +/- 4.69303e-06
    Incoming Energy [790846.5920933242, 821480.7623802572)
      Particle: photon
        Total Material
-         Current                              0.000213109 +/- 1.60399e-05
+         Current                              0.000210837 +/- 4.6021e-06
    Incoming Energy [821480.7623802572, 853301.575435271)
      Particle: photon
        Total Material
-         Current                              0.000443777 +/- 2.24335e-05
+         Current                              0.000464886 +/- 6.365e-06
    Incoming Energy [853301.575435271, 886354.9969576435)
      Particle: photon
        Total Material
-         Current                              0.00015572 +/- 1.14482e-05
+         Current                              0.000167019 +/- 3.95798e-06
    Incoming Energy [886354.9969576435, 920688.7731703004)
      Particle: photon
        Total Material
-         Current                              0.000138609 +/- 1.33599e-05
+         Current                              0.000156059 +/- 3.67904e-06
    Incoming Energy [920688.7731703004, 956352.4997900369)
      Particle: photon
        Total Material
-         Current                              0.000119202 +/- 1.15243e-05
+         Current                              0.0001393 +/- 3.95647e-06
    Incoming Energy [956352.4997900369, 993397.6936693636)
      Particle: photon
        Total Material
-         Current                              0.000156465 +/- 1.17707e-05
+         Current                              0.000141878 +/- 3.60888e-06
    Incoming Energy [993397.6936693636, 1031877.8672134671)
      Particle: photon
        Total Material
-         Current                              0.000166744 +/- 1.3779e-05
+         Current                              0.000142919 +/- 3.87221e-06
    Incoming Energy [1031877.8672134671, 1071848.605679777)
      Particle: photon
        Total Material
-         Current                              0.000175452 +/- 1.25221e-05
+         Current                              0.000166314 +/- 3.6482e-06
    Incoming Energy [1071848.605679777, 1113367.6474718056)
      Particle: photon
        Total Material
-         Current                              0.000178203 +/- 1.2769e-05
+         Current                              0.0001691 +/- 4.64021e-06
    Incoming Energy [1113367.6474718056, 1156494.9675432418)
      Particle: photon
        Total Material
-         Current                              0.00018119 +/- 1.24048e-05
+         Current                              0.000178341 +/- 3.53672e-06
    Incoming Energy [1156494.9675432418, 1201292.86403278)
      Particle: photon
        Total Material
-         Current                              0.000158372 +/- 1.29316e-05
+         Current                              0.000165457 +/- 4.02415e-06
    Incoming Energy [1201292.86403278, 1247826.0482548284)
      Particle: photon
        Total Material
-         Current                              0.000185654 +/- 1.49961e-05
+         Current                              0.000182831 +/- 4.05366e-06
    Incoming Energy [1247826.0482548284, 1296161.73817609)
      Particle: photon
        Total Material
-         Current                              0.000122744 +/- 1.06996e-05
+         Current                              0.000140267 +/- 3.79053e-06
    Incoming Energy [1296161.73817609, 1346369.7555130452)
      Particle: photon
        Total Material
-         Current                              0.000127369 +/- 1.10946e-05
+         Current                              0.000135691 +/- 3.72256e-06
    Incoming Energy [1346369.7555130452, 1398522.6265905953)
      Particle: photon
        Total Material
-         Current                              0.000135203 +/- 1.27799e-05
+         Current                              0.000137663 +/- 3.87301e-06
    Incoming Energy [1398522.6265905953, 1452695.6871075577)
      Particle: photon
        Total Material
-         Current                              0.000134724 +/- 1.1556e-05
+         Current                              0.000140952 +/- 3.61765e-06
    Incoming Energy [1452695.6871075577, 1508967.190960349)
      Particle: photon
        Total Material
-         Current                              0.000126473 +/- 1.05309e-05
+         Current                              0.000122157 +/- 3.34823e-06
    Incoming Energy [1508967.190960349, 1567418.4232820526)
      Particle: photon
        Total Material
-         Current                              0.000133 +/- 1.16389e-05
+         Current                              0.000133102 +/- 3.57843e-06
    Incoming Energy [1567418.4232820526, 1628133.817860161)
      Particle: photon
        Total Material
-         Current                              0.000132406 +/- 1.11901e-05
+         Current                              0.000140479 +/- 3.56108e-06
    Incoming Energy [1628133.817860161, 1691201.0791026007)
      Particle: photon
        Total Material
-         Current                              0.000148203 +/- 1.2397e-05
+         Current                              0.000134874 +/- 3.08719e-06
    Incoming Energy [1691201.0791026007, 1756711.3087282223)
      Particle: photon
        Total Material
-         Current                              0.000145361 +/- 1.24429e-05
+         Current                              0.000152702 +/- 4.05609e-06
    Incoming Energy [1756711.3087282223, 1824759.1373647666)
      Particle: photon
        Total Material
-         Current                              0.000183372 +/- 1.48519e-05
+         Current                              0.000183255 +/- 4.2433e-06
    Incoming Energy [1824759.1373647666, 1895442.861244393)
      Particle: photon
        Total Material
-         Current                              0.000164958 +/- 1.33982e-05
+         Current                              0.000149644 +/- 3.9813e-06
    Incoming Energy [1895442.861244393, 1968864.5841942474)
      Particle: photon
        Total Material
-         Current                              0.000118724 +/- 9.85782e-06
+         Current                              0.000141581 +/- 4.04729e-06
    Incoming Energy [1968864.5841942474, 2045130.365127145)
      Particle: photon
        Total Material
-         Current                              0.000121679 +/- 1.075e-05
+         Current                              0.000139196 +/- 3.77755e-06
    Incoming Energy [2045130.365127145, 2124350.3712454615)
      Particle: photon
        Total Material
-         Current                              0.000170552 +/- 1.18312e-05
+         Current                              0.000163223 +/- 3.79585e-06
    Incoming Energy [2124350.3712454615, 2206639.037179503)
      Particle: photon
        Total Material
-         Current                              0.000161384 +/- 1.16915e-05
+         Current                              0.000146902 +/- 3.48561e-06
    Incoming Energy [2206639.037179503, 2292115.2302902574)
      Particle: photon
        Total Material
-         Current                              0.000462738 +/- 2.19329e-05
+         Current                              0.000445107 +/- 6.17279e-06
    Incoming Energy [2292115.2302902574, 2380902.4223752916)
      Particle: photon
        Total Material
-         Current                              0.000135918 +/- 1.29543e-05
+         Current                              0.000132837 +/- 4.03237e-06
    Incoming Energy [2380902.4223752916, 2473128.86802584)
      Particle: photon
        Total Material
-         Current                              0.000114934 +/- 9.89263e-06
+         Current                              0.000135712 +/- 3.83961e-06
    Incoming Energy [2473128.86802584, 2568927.7898927163)
      Particle: photon
        Total Material
-         Current                              0.000125726 +/- 1.11303e-05
+         Current                              0.000145436 +/- 3.85753e-06
    Incoming Energy [2568927.7898927163, 2668437.5711286725)
      Particle: photon
        Total Material
-         Current                              0.000167921 +/- 1.18184e-05
+         Current                              0.000150074 +/- 3.60114e-06
    Incoming Energy [2668437.5711286725, 2771801.9552851883)
      Particle: photon
        Total Material
-         Current                              0.000158202 +/- 1.25647e-05
+         Current                              0.000150955 +/- 3.82707e-06
    Incoming Energy [2771801.9552851883, 2879170.2539524483)
      Particle: photon
        Total Material
-         Current                              0.000154735 +/- 1.25946e-05
+         Current                              0.00014514 +/- 3.50172e-06
    Incoming Energy [2879170.2539524483, 2990697.562442441)
      Particle: photon
        Total Material
-         Current                              0.00015283 +/- 1.18543e-05
+         Current                              0.000155331 +/- 3.72441e-06
    Incoming Energy [2990697.562442441, 3106544.9838267467)
      Particle: photon
        Total Material
-         Current                              0.000143218 +/- 1.34392e-05
+         Current                              0.000139275 +/- 3.60641e-06
    Incoming Energy [3106544.9838267467, 3226879.86165263)
      Particle: photon
        Total Material
-         Current                              0.000138372 +/- 1.2877e-05
+         Current                              0.00013807 +/- 3.65144e-06
    Incoming Energy [3226879.86165263, 3351876.0216736076)
      Particle: photon
        Total Material
-         Current                              0.000167203 +/- 1.32162e-05
+         Current                              0.000151926 +/- 4.13559e-06
    Incoming Energy [3351876.0216736076, 3481714.0229436695)
      Particle: photon
        Total Material
-         Current                              0.000167945 +/- 1.21672e-05
+         Current                              0.0001498 +/- 3.69647e-06
    Incoming Energy [3481714.0229436695, 3616581.4186378685)
      Particle: photon
        Total Material
-         Current                              0.00018383 +/- 1.46706e-05
+         Current                              0.000166117 +/- 4.05422e-06
    Incoming Energy [3616581.4186378685, 3756673.0269760336)
      Particle: photon
        Total Material
-         Current                              0.000141367 +/- 1.27929e-05
+         Current                              0.000141334 +/- 3.40518e-06
    Incoming Energy [3756673.0269760336, 3902191.212640962)
      Particle: photon
        Total Material
-         Current                              0.000152768 +/- 1.1237e-05
+         Current                              0.000145352 +/- 3.08723e-06
    Incoming Energy [3902191.212640962, 4053346.179097606)
      Particle: photon
        Total Material
-         Current                              0.000157777 +/- 1.25293e-05
+         Current                              0.000137781 +/- 3.56713e-06
    Incoming Energy [4053346.179097606, 4210356.272235508)
      Particle: photon
        Total Material
-         Current                              0.000136092 +/- 1.1618e-05
+         Current                              0.000132453 +/- 3.76347e-06
    Incoming Energy [4210356.272235508, 4373448.295773114)
      Particle: photon
        Total Material
-         Current                              0.000156033 +/- 1.32711e-05
+         Current                              0.000128302 +/- 4.07157e-06
    Incoming Energy [4373448.295773114, 4542857.838879548)
      Particle: photon
        Total Material
-         Current                              0.000647574 +/- 2.86158e-05
+         Current                              0.000619222 +/- 8.00338e-06
    Incoming Energy [4542857.838879548, 4718829.616487136)
      Particle: photon
        Total Material
-         Current                              0.000127831 +/- 1.06337e-05
+         Current                              0.000119006 +/- 3.70866e-06
    Incoming Energy [4718829.616487136, 4901617.822786226)
      Particle: photon
        Total Material
-         Current                              0.000110699 +/- 1.07939e-05
+         Current                              0.000120196 +/- 3.2168e-06
    Incoming Energy [4901617.822786226, 5091486.498412991)
      Particle: photon
        Total Material
-         Current                              0.000127945 +/- 1.15933e-05
+         Current                              0.000122231 +/- 3.47257e-06
    Incoming Energy [5091486.498412991, 5288709.911860536)
      Particle: photon
        Total Material
-         Current                              9.95751e-05 +/- 9.32294e-06
+         Current                              0.000115562 +/- 3.29625e-06
    Incoming Energy [5288709.911860536, 5493572.955664369)
      Particle: photon
        Total Material
-         Current                              0.000126772 +/- 1.11576e-05
+         Current                              0.000111996 +/- 3.43956e-06
    Incoming Energy [5493572.955664369, 5706371.557934445)
      Particle: photon
        Total Material
-         Current                              0.000130508 +/- 9.69498e-06
+         Current                              0.00015758 +/- 3.77063e-06
    Incoming Energy [5706371.557934445, 5927413.109828302)
      Particle: photon
        Total Material
-         Current                              8.8e-05 +/- 8.90806e-06
+         Current                              9.90223e-05 +/- 3.07052e-06
    Incoming Energy [5927413.109828302, 6157016.909582745)
      Particle: photon
        Total Material
-         Current                              0.000121115 +/- 1.26815e-05
+         Current                              0.000129975 +/- 3.82941e-06
    Incoming Energy [6157016.909582745, 6395514.623745528)
      Particle: photon
        Total Material
-         Current                              9.60974e-05 +/- 9.59861e-06
+         Current                              0.000102076 +/- 3.04906e-06
    Incoming Energy [6395514.623745528, 6643250.766273245)
      Particle: photon
        Total Material
-         Current                              0.000113661 +/- 1.0564e-05
+         Current                              0.000104663 +/- 2.99252e-06
    Incoming Energy [6643250.766273245, 6900583.196187539)
      Particle: photon
        Total Material
-         Current                              5.57442e-05 +/- 8.14584e-06
+         Current                              5.71419e-05 +/- 2.27465e-06
    Incoming Energy [6900583.196187539, 7167883.634508467)
      Particle: photon
        Total Material
-         Current                              4.43721e-05 +/- 6.06777e-06
+         Current                              4.94998e-05 +/- 2.54049e-06
    Incoming Energy [7167883.634508467, 7445538.201211768)
      Particle: photon
        Total Material
-         Current                              0.000214318 +/- 1.50501e-05
+         Current                              0.000191103 +/- 4.57877e-06
    Incoming Energy [7445538.201211768, 7733947.972985649)
      Particle: photon
        Total Material
-         Current                              0.00042688 +/- 2.01232e-05
+         Current                              0.000372737 +/- 6.22853e-06
    Incoming Energy [7733947.972985649, 8033529.562592808)
      Particle: photon
        Total Material
-         Current                              2.43721e-05 +/- 5.01943e-06
+         Current                              3.03849e-05 +/- 1.99786e-06
    Incoming Energy [8033529.562592808, 8344715.720674575)
      Particle: photon
        Total Material
-         Current                              1.3e-05 +/- 3.37998e-06
+         Current                              1.56372e-05 +/- 1.21589e-06
    Incoming Energy [8344715.720674575, 8667955.960866475)
      Particle: photon
        Total Material
-         Current                              1.13612e-05 +/- 3.56215e-06
+         Current                              1.56718e-05 +/- 1.40621e-06
    Incoming Energy [8667955.960866475, 9003717.209128244)
      Particle: photon
        Total Material
-         Current                              3.31954e-05 +/- 5.2995e-06
+         Current                              2.67535e-05 +/- 1.52975e-06
    Incoming Energy [9003717.209128244, 9352484.478226215)
      Particle: photon
        Total Material
-         Current                              2.6e-05 +/- 5.04925e-06
+         Current                              2.25852e-05 +/- 1.55221e-06
    Incoming Energy [9352484.478226215, 9714761.568342412)
      Particle: photon
        Total Material
-         Current                              1.23721e-05 +/- 3.56863e-06
+         Current                              8.23721e-06 +/- 9.11691e-07
    Incoming Energy [9714761.568342412, 10091071.794822386)
      Particle: photon
        Total Material
-         Current                              6e-06 +/- 2.38683e-06
+         Current                              7.90116e-06 +/- 8.49228e-07
    Incoming Energy [10091071.794822386, 10481958.744113024)
      Particle: photon
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              2.8e-06 +/- 4.94004e-07
    Incoming Energy [10481958.744113024, 10887987.058982305)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              1.4e-06 +/- 4.71833e-07
    Incoming Energy [10887987.058982305, 11309743.25415527)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              4e-07 +/- 2.42878e-07
    Incoming Energy [11309743.25415527, 11747836.563544407)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              6e-07 +/- 2.38683e-07
    Incoming Energy [11747836.563544407, 12202899.820298268)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              4e-07 +/- 1.96946e-07
    Incoming Energy [12202899.820298268, 12675590.370939573)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              3e-07 +/- 1.71447e-07
    Incoming Energy [12675590.370939573, 13166591.024913372)
      Particle: photon
        Total Material
@@ -1567,39 +1567,39 @@
    Incoming Energy [13676611.040916685, 14206387.15143465)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [14206387.15143465, 14756684.626962991)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [14756684.626962991, 15328298.381454088)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [15328298.381454088, 15922054.120583545)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [15922054.120583545, 16538809.534495935)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [16538809.534495935, 17179455.536752608)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [17179455.536752608, 17844917.551271312)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [17844917.551271312, 18536156.849116597)
      Particle: photon
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              5e-07 +/- 2.19043e-07
    Incoming Energy [18536156.849116597, 19254171.937072027)
      Particle: photon
        Total Material
-         Current                              0 +/- 0
+         Current                              1e-07 +/- 1e-07
    Incoming Energy [19254171.937072027, 20000000)
      Particle: photon
        Total Material
@@ -1790,7 +1790,7 @@
    Incoming Energy [0.005857762359329055, 0.006748960696928202)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              1e-07 +/- 1e-07
    Incoming Energy [0.006748960696928202, 0.007775745701964369)
      Particle: neutron
        Total Material
@@ -1810,595 +1810,595 @@
    Incoming Energy [0.011892071150027212, 0.013701327550235452)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [0.013701327550235452, 0.015785843716417006)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              1e-07 +/- 1e-07
    Incoming Energy [0.015785843716417006, 0.018187497592878143)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              2e-07 +/- 1.40705e-07
    Incoming Energy [0.018187497592878143, 0.020954538422734887)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              5e-07 +/- 2.19043e-07
    Incoming Energy [0.020954538422734887, 0.024142556075543487)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              3.83044e-07 +/- 1.89174e-07
    Incoming Energy [0.024142556075543487, 0.027815597848167208)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              5e-07 +/- 2.19043e-07
    Incoming Energy [0.027815597848167208, 0.03204745517541666)
      Particle: neutron
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              7e-07 +/- 2.56432e-07
    Incoming Energy [0.03204745517541666, 0.03692314610048959)
      Particle: neutron
        Total Material
-         Current                              0 +/- 0
+         Current                              6.63281e-07 +/- 2.83565e-07
    Incoming Energy [0.03692314610048959, 0.04254062328805098)
      Particle: neutron
        Total Material
-         Current                              1e-06 +/- 1e-06
+         Current                              8e-07 +/- 3.07482e-07
    Incoming Energy [0.04254062328805098, 0.049012741893948976)
      Particle: neutron
        Total Material
-         Current                              3.48601e-07 +/- 3.48601e-07
+         Current                              1.13486e-06 +/- 3.15166e-07
    Incoming Energy [0.049012741893948976, 0.056469526826082424)
      Particle: neutron
        Total Material
-         Current                              0 +/- 1.42134e-06
+         Current                              1.15671e-06 +/- 3.9722e-07
    Incoming Energy [0.056469526826082424, 0.06506078494570668)
      Particle: neutron
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              1.63721e-06 +/- 4.19933e-07
    Incoming Energy [0.06506078494570668, 0.0749591146883203)
      Particle: neutron
        Total Material
-         Current                              2.36929e-06 +/- 1.44957e-06
+         Current                              2.27414e-06 +/- 4.39273e-07
    Incoming Energy [0.0749591146883203, 0.08636337356743713)
      Particle: neutron
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              2.9e-06 +/- 4.77684e-07
    Incoming Energy [0.08636337356743713, 0.09950267322341869)
      Particle: neutron
        Total Material
-         Current                              2e-06 +/- 2e-06
+         Current                              2.2e-06 +/- 5.23778e-07
    Incoming Energy [0.09950267322341869, 0.11464098227792577)
      Particle: neutron
        Total Material
-         Current                              3e-06 +/- 1.71447e-06
+         Current                              3.26611e-06 +/- 5.62936e-07
    Incoming Energy [0.11464098227792577, 0.1320824294653673)
      Particle: neutron
        Total Material
-         Current                              4e-06 +/- 1.96946e-06
+         Current                              2.9274e-06 +/- 5.14216e-07
    Incoming Energy [0.1320824294653673, 0.1521774135812942)
      Particle: neutron
        Total Material
-         Current                              6e-06 +/- 2.77798e-06
+         Current                              6.37348e-06 +/- 8.41546e-07
    Incoming Energy [0.1521774135812942, 0.17532964299664375)
      Particle: neutron
        Total Material
-         Current                              9e-06 +/- 2.87623e-06
+         Current                              6.3e-06 +/- 7.86952e-07
    Incoming Energy [0.17532964299664375, 0.20200424616172638)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              6.21924e-06 +/- 7.59703e-07
    Incoming Energy [0.20200424616172638, 0.23273711604003247)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              4.8e-06 +/- 6.27324e-07
    Incoming Energy [0.23273711604003247, 0.26814567620160473)
      Particle: neutron
        Total Material
-         Current                              3.02316e-06 +/- 1.71421e-06
+         Current                              4.1854e-06 +/- 7.62085e-07
    Incoming Energy [0.26814567620160473, 0.3089412848668632)
      Particle: neutron
        Total Material
-         Current                              2e-06 +/- 1.40705e-06
+         Current                              5.07358e-06 +/- 6.29845e-07
    Incoming Energy [0.3089412848668632, 0.3559435260982109)
      Particle: neutron
        Total Material
-         Current                              1e-05 +/- 3.01511e-06
+         Current                              5.63721e-06 +/- 8.43036e-07
    Incoming Energy [0.3559435260982109, 0.4100966752495598)
      Particle: neutron
        Total Material
-         Current                              9e-06 +/- 2.87623e-06
+         Current                              5.51164e-06 +/- 7.07291e-07
    Incoming Energy [0.4100966752495598, 0.4724886694647717)
      Particle: neutron
        Total Material
-         Current                              4.37212e-06 +/- 1.9968e-06
+         Current                              7.32029e-06 +/- 9.56452e-07
    Incoming Energy [0.4724886694647717, 0.5443729643424607)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              8.35736e-06 +/- 8.84903e-07
    Incoming Energy [0.5443729643424607, 0.627193715867705)
      Particle: neutron
        Total Material
-         Current                              9e-06 +/- 3.20826e-06
+         Current                              7.53721e-06 +/- 9.44569e-07
    Incoming Energy [0.627193715867705, 0.7226147935158518)
      Particle: neutron
        Total Material
-         Current                              1.1e-05 +/- 3.45096e-06
+         Current                              7.37442e-06 +/- 8.43174e-07
    Incoming Energy [0.7226147935158518, 0.8325532074018738)
      Particle: neutron
        Total Material
-         Current                              5e-06 +/- 2.19043e-06
+         Current                              6.63721e-06 +/- 8.21615e-07
    Incoming Energy [0.8325532074018738, 0.9592176210269378)
      Particle: neutron
        Total Material
-         Current                              8e-06 +/- 2.7266e-06
+         Current                              8.50338e-06 +/- 9.35374e-07
    Incoming Energy [0.9592176210269378, 1.105152723343536)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              7.61109e-06 +/- 9.76781e-07
    Incoming Energy [1.105152723343536, 1.2732903515742826)
      Particle: neutron
        Total Material
-         Current                              1.4e-05 +/- 3.76588e-06
+         Current                              8.82334e-06 +/- 8.68471e-07
    Incoming Energy [1.2732903515742826, 1.467008391842138)
      Particle: neutron
        Total Material
-         Current                              1e-05 +/- 3.01511e-06
+         Current                              8.91217e-06 +/- 1.04483e-06
    Incoming Energy [1.467008391842138, 1.6901986409261684)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 3.37998e-06
+         Current                              1.04393e-05 +/- 1.06022e-06
    Incoming Energy [1.6901986409261684, 1.947344992485959)
      Particle: neutron
        Total Material
-         Current                              1.4e-05 +/- 3.48735e-06
+         Current                              9.12022e-06 +/- 1.00531e-06
    Incoming Energy [1.947344992485959, 2.243613518516484)
      Particle: neutron
        Total Material
-         Current                              1.2e-05 +/- 3.56186e-06
+         Current                              1.17778e-05 +/- 1.05346e-06
    Incoming Energy [2.243613518516484, 2.5849562557704893)
      Particle: neutron
        Total Material
-         Current                              1.72283e-05 +/- 4.27395e-06
+         Current                              1.03446e-05 +/- 1.03766e-06
    Incoming Energy [2.5849562557704893, 2.978230782218339)
      Particle: neutron
        Total Material
-         Current                              1.4239e-05 +/- 3.76448e-06
+         Current                              1.01712e-05 +/- 8.76465e-07
    Incoming Energy [2.978230782218339, 3.4313379858372306)
      Particle: neutron
        Total Material
-         Current                              9.83082e-06 +/- 3.23888e-06
+         Current                              1.15401e-05 +/- 1.01838e-06
    Incoming Energy [3.4313379858372306, 3.9533807935057212)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 4.11329e-06
+         Current                              1.22574e-05 +/- 1.13204e-06
    Incoming Energy [3.9533807935057212, 4.55484704886816)
      Particle: neutron
        Total Material
-         Current                              1.1e-05 +/- 3.14466e-06
+         Current                              1.06725e-05 +/- 1.03994e-06
    Incoming Energy [4.55484704886816, 5.247820213186595)
      Particle: neutron
        Total Material
-         Current                              7e-06 +/- 2.56432e-06
+         Current                              1.08026e-05 +/- 1.05029e-06
    Incoming Energy [5.247820213186595, 6.046222122161734)
      Particle: neutron
        Total Material
-         Current                              1e-05 +/- 3.33333e-06
+         Current                              1.09028e-05 +/- 9.624e-07
    Incoming Energy [6.046222122161734, 6.966092675709234)
      Particle: neutron
        Total Material
-         Current                              1.7e-05 +/- 4.50701e-06
+         Current                              1.33734e-05 +/- 1.2222e-06
    Incoming Energy [6.966092675709234, 8.025912079660733)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 3.85992e-06
+         Current                              1.36947e-05 +/- 1.20552e-06
    Incoming Energy [8.025912079660733, 9.246972113227855)
      Particle: neutron
        Total Material
-         Current                              1.6e-05 +/- 4.19716e-06
+         Current                              1.31696e-05 +/- 1.07725e-06
    Incoming Energy [9.246972113227855, 10.65380388099493)
      Particle: neutron
        Total Material
-         Current                              1.18308e-05 +/- 3.22406e-06
+         Current                              1.29863e-05 +/- 1.13608e-06
    Incoming Energy [10.65380388099493, 12.274670642981077)
      Particle: neutron
        Total Material
-         Current                              8.0451e-06 +/- 3.34678e-06
+         Current                              1.36417e-05 +/- 1.20477e-06
    Incoming Energy [12.274670642981077, 14.142135623730951)
      Particle: neutron
        Total Material
-         Current                              1.38296e-05 +/- 3.73025e-06
+         Current                              1.46993e-05 +/- 1.31102e-06
    Incoming Energy [14.142135623730951, 16.293716207722802)
      Particle: neutron
        Total Material
-         Current                              1.6e-05 +/- 3.68453e-06
+         Current                              1.3753e-05 +/- 1.15925e-06
    Incoming Energy [16.293716207722802, 18.772637663884097)
      Particle: neutron
        Total Material
-         Current                              1.46593e-05 +/- 4.2909e-06
+         Current                              1.52711e-05 +/- 1.22194e-06
    Incoming Energy [18.772637663884097, 21.628701541545553)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 3.37998e-06
+         Current                              1.37388e-05 +/- 1.1571e-06
    Incoming Energy [21.628701541545553, 24.919286183914224)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 3.37998e-06
+         Current                              1.65031e-05 +/- 1.26285e-06
    Incoming Energy [24.919286183914224, 28.710499459388483)
      Particle: neutron
        Total Material
-         Current                              1.2e-05 +/- 3.26599e-06
+         Current                              1.31367e-05 +/- 1.17819e-06
    Incoming Energy [28.710499459388483, 33.078506869094824)
      Particle: neutron
        Total Material
-         Current                              1.40331e-05 +/- 3.41545e-06
+         Current                              1.67324e-05 +/- 1.25408e-06
    Incoming Energy [33.078506869094824, 38.11106171233633)
      Particle: neutron
        Total Material
-         Current                              1.1e-05 +/- 3.14466e-06
+         Current                              1.53229e-05 +/- 1.3465e-06
    Incoming Energy [38.11106171233633, 43.909268050987265)
      Particle: neutron
        Total Material
-         Current                              1.7e-05 +/- 4.27702e-06
+         Current                              1.77549e-05 +/- 1.51569e-06
    Incoming Energy [43.909268050987265, 50.58961189080075)
      Particle: neutron
        Total Material
-         Current                              2.01987e-05 +/- 4.23367e-06
+         Current                              1.61592e-05 +/- 1.39046e-06
    Incoming Energy [50.58961189080075, 58.286301386076154)
      Particle: neutron
        Total Material
-         Current                              1.78308e-05 +/- 4.55171e-06
+         Current                              1.48215e-05 +/- 1.2412e-06
    Incoming Energy [58.286301386076154, 67.15396308241434)
      Particle: neutron
        Total Material
-         Current                              1.7e-05 +/- 4.03395e-06
+         Current                              1.48215e-05 +/- 1.33801e-06
    Incoming Energy [67.15396308241434, 77.3707483650964)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 3.85992e-06
+         Current                              1.5543e-05 +/- 1.45226e-06
    Incoming Energy [77.3707483650964, 89.14191252165533)
      Particle: neutron
        Total Material
-         Current                              1.3e-05 +/- 4.18149e-06
+         Current                              1.61245e-05 +/- 1.41253e-06
    Incoming Energy [89.14191252165533, 102.703938322034)
      Particle: neutron
        Total Material
-         Current                              1.38253e-05 +/- 3.44799e-06
+         Current                              1.4062e-05 +/- 1.14734e-06
    Incoming Energy [102.703938322034, 118.32928695908005)
      Particle: neutron
        Total Material
-         Current                              1e-05 +/- 3.62372e-06
+         Current                              1.65456e-05 +/- 1.22477e-06
    Incoming Energy [118.32928695908005, 136.33187179580997)
      Particle: neutron
        Total Material
-         Current                              1.5e-05 +/- 3.5887e-06
+         Current                              1.58559e-05 +/- 1.33342e-06
    Incoming Energy [136.33187179580997, 157.0733648870596)
      Particle: neutron
        Total Material
-         Current                              5e-06 +/- 2.97294e-06
+         Current                              1.26199e-05 +/- 1.36467e-06
    Incoming Energy [157.0733648870596, 180.97046297358648)
      Particle: neutron
        Total Material
-         Current                              2.4e-05 +/- 4.73969e-06
+         Current                              1.80061e-05 +/- 1.39636e-06
    Incoming Energy [180.97046297358648, 208.50325892249575)
      Particle: neutron
        Total Material
-         Current                              1.58303e-05 +/- 4.40195e-06
+         Current                              1.60268e-05 +/- 1.23525e-06
    Incoming Energy [208.50325892249575, 240.22488679628609)
      Particle: neutron
        Total Material
-         Current                              1.6e-05 +/- 3.94917e-06
+         Current                              1.54891e-05 +/- 1.48731e-06
    Incoming Energy [240.22488679628609, 276.77263432002053)
      Particle: neutron
        Total Material
-         Current                              2.22021e-05 +/- 5.28408e-06
+         Current                              1.66155e-05 +/- 1.16807e-06
    Incoming Energy [276.77263432002053, 318.8807459961642)
      Particle: neutron
        Total Material
-         Current                              2.67442e-05 +/- 5.42389e-06
+         Current                              1.98118e-05 +/- 1.29118e-06
    Incoming Energy [318.8807459961642, 367.3951740817562)
      Particle: neutron
        Total Material
-         Current                              1.93707e-05 +/- 4.86018e-06
+         Current                              1.63891e-05 +/- 1.20588e-06
    Incoming Energy [367.3951740817562, 423.2905737751491)
      Particle: neutron
        Total Material
-         Current                              1.51696e-05 +/- 4.06865e-06
+         Current                              1.84571e-05 +/- 1.3391e-06
    Incoming Energy [423.2905737751491, 487.68988404573685)
      Particle: neutron
        Total Material
-         Current                              2e-05 +/- 4.26401e-06
+         Current                              1.82781e-05 +/- 1.40942e-06
    Incoming Energy [487.68988404573685, 561.8868874856754)
      Particle: neutron
        Total Material
-         Current                              2.08304e-05 +/- 4.53388e-06
+         Current                              1.85911e-05 +/- 1.30757e-06
    Incoming Energy [561.8868874856754, 647.3722024111769)
      Particle: neutron
        Total Material
-         Current                              1.93615e-05 +/- 4.64736e-06
+         Current                              1.98854e-05 +/- 1.41247e-06
    Incoming Energy [647.3722024111769, 745.8632293948697)
      Particle: neutron
        Total Material
-         Current                              2.62021e-05 +/- 5.59236e-06
+         Current                              2.0548e-05 +/- 1.67848e-06
    Incoming Energy [745.8632293948697, 859.3386538552732)
      Particle: neutron
        Total Material
-         Current                              1.88293e-05 +/- 4.83488e-06
+         Current                              2.01086e-05 +/- 1.47544e-06
    Incoming Energy [859.3386538552732, 990.0781978606442)
      Particle: neutron
        Total Material
-         Current                              1.80832e-05 +/- 4.49103e-06
+         Current                              1.68053e-05 +/- 1.18601e-06
    Incoming Energy [990.0781978606442, 1140.708419761218)
      Particle: neutron
        Total Material
-         Current                              2.2e-05 +/- 5.04124e-06
+         Current                              1.99334e-05 +/- 1.4639e-06
    Incoming Energy [1140.708419761218, 1314.255481764769)
      Particle: neutron
        Total Material
-         Current                              2.6744e-05 +/- 6.30865e-06
+         Current                              2.00418e-05 +/- 1.779e-06
    Incoming Energy [1314.255481764769, 1514.2059455564554)
      Particle: neutron
        Total Material
-         Current                              2.4e-05 +/- 5.3409e-06
+         Current                              2.02585e-05 +/- 1.47197e-06
    Incoming Energy [1514.2059455564554, 1744.576817347373)
      Particle: neutron
        Total Material
-         Current                              1.78308e-05 +/- 4.08383e-06
+         Current                              2.08526e-05 +/- 1.25729e-06
    Incoming Energy [1744.576817347373, 2009.996249557332)
      Particle: neutron
        Total Material
-         Current                              2.56616e-05 +/- 4.97031e-06
+         Current                              2.14903e-05 +/- 1.5761e-06
    Incoming Energy [2009.996249557332, 2315.7965204292263)
      Particle: neutron
        Total Material
-         Current                              2.11164e-05 +/- 4.48977e-06
+         Current                              1.8618e-05 +/- 1.40717e-06
    Incoming Energy [2315.7965204292263, 2668.121159536096)
      Particle: neutron
        Total Material
-         Current                              2.03721e-05 +/- 4.71279e-06
+         Current                              2.00309e-05 +/- 1.18077e-06
    Incoming Energy [2668.121159536096, 3074.0483713330545)
      Particle: neutron
        Total Material
-         Current                              2.18303e-05 +/- 4.812e-06
+         Current                              1.90796e-05 +/- 1.4612e-06
    Incoming Energy [3074.0483713330545, 3541.7332363341625)
      Particle: neutron
        Total Material
-         Current                              1.99829e-05 +/- 5.01989e-06
+         Current                              2.0881e-05 +/- 1.53877e-06
    Incoming Energy [3541.7332363341625, 4080.5715467367336)
      Particle: neutron
        Total Material
-         Current                              2.66424e-05 +/- 5.30462e-06
+         Current                              1.9237e-05 +/- 1.5346e-06
    Incoming Energy [4080.5715467367336, 4701.388567952099)
      Particle: neutron
        Total Material
-         Current                              2.13721e-05 +/- 5.18065e-06
+         Current                              2.43414e-05 +/- 1.73658e-06
    Incoming Energy [4701.388567952099, 5416.656518263153)
      Particle: neutron
        Total Material
-         Current                              1.98742e-05 +/- 4.18536e-06
+         Current                              2.23811e-05 +/- 1.51391e-06
    Incoming Energy [5416.656518263153, 6240.745135776586)
      Particle: neutron
        Total Material
-         Current                              2.1e-05 +/- 4.33333e-06
+         Current                              2.35667e-05 +/- 1.83809e-06
    Incoming Energy [6240.745135776586, 7190.210366561586)
      Particle: neutron
        Total Material
-         Current                              2.4e-05 +/- 4.94822e-06
+         Current                              2.23608e-05 +/- 1.38949e-06
    Incoming Energy [7190.210366561586, 8284.126973721764)
      Particle: neutron
        Total Material
-         Current                              1.79468e-05 +/- 4.56469e-06
+         Current                              2.08083e-05 +/- 1.41889e-06
    Incoming Energy [8284.126973721764, 9544.47174951883)
      Particle: neutron
        Total Material
-         Current                              2.137e-05 +/- 4.55828e-06
+         Current                              2.24882e-05 +/- 1.59474e-06
    Incoming Energy [9544.47174951883, 10996.56502928231)
      Particle: neutron
        Total Material
-         Current                              2.23721e-05 +/- 5.74033e-06
+         Current                              2.2111e-05 +/- 1.55051e-06
    Incoming Energy [10996.56502928231, 12669.579377122773)
      Particle: neutron
        Total Material
-         Current                              3.00237e-05 +/- 5.61794e-06
+         Current                              2.8204e-05 +/- 1.52685e-06
    Incoming Energy [12669.579377122773, 14597.125662948121)
      Particle: neutron
        Total Material
-         Current                              2.29213e-05 +/- 4.36157e-06
+         Current                              2.42526e-05 +/- 1.51463e-06
    Incoming Energy [14597.125662948121, 16817.92830507429)
      Particle: neutron
        Total Material
-         Current                              2.2e-05 +/- 4.83673e-06
+         Current                              2.7285e-05 +/- 1.63153e-06
    Incoming Energy [16817.92830507429, 19376.603244059108)
      Particle: neutron
        Total Material
-         Current                              3.83232e-05 +/- 6.62241e-06
+         Current                              2.87177e-05 +/- 1.75124e-06
    Incoming Energy [19376.603244059108, 22324.55427725903)
      Particle: neutron
        Total Material
-         Current                              3.53721e-05 +/- 5.91408e-06
+         Current                              2.83624e-05 +/- 1.66372e-06
    Incoming Energy [22324.55427725903, 25721.005761476288)
      Particle: neutron
        Total Material
-         Current                              7.82397e-05 +/- 9.04511e-06
+         Current                              6.1765e-05 +/- 2.7736e-06
    Incoming Energy [25721.005761476288, 29634.1924306998)
      Particle: neutron
        Total Material
-         Current                              3.81838e-05 +/- 6.29392e-06
+         Current                              3.12348e-05 +/- 2.03695e-06
    Incoming Energy [29634.1924306998, 34142.73023238656)
      Particle: neutron
        Total Material
-         Current                              3.9e-05 +/- 6.80092e-06
+         Current                              3.22046e-05 +/- 1.73336e-06
    Incoming Energy [34142.73023238656, 39337.19572239394)
      Particle: neutron
        Total Material
-         Current                              2.83721e-05 +/- 5.32658e-06
+         Current                              3.16324e-05 +/- 1.76877e-06
    Incoming Energy [39337.19572239394, 45321.94574861815)
      Particle: neutron
        Total Material
-         Current                              4e-05 +/- 5.86033e-06
+         Current                              3.94318e-05 +/- 2.12307e-06
    Incoming Energy [45321.94574861815, 52217.21398079572)
      Particle: neutron
        Total Material
-         Current                              4e-05 +/- 5.68535e-06
+         Current                              4.224e-05 +/- 1.9704e-06
    Incoming Energy [52217.21398079572, 60161.52640576651)
      Particle: neutron
        Total Material
-         Current                              3.64047e-05 +/- 6.51818e-06
+         Current                              4.02526e-05 +/- 1.89748e-06
    Incoming Energy [60161.52640576651, 69314.48431551472)
      Particle: neutron
        Total Material
-         Current                              4.5643e-05 +/- 6.65843e-06
+         Current                              4.71374e-05 +/- 2.1414e-06
    Incoming Energy [69314.48431551472, 79859.9706982372)
      Particle: neutron
        Total Material
-         Current                              6.00247e-05 +/- 7.14047e-06
+         Current                              5.64476e-05 +/- 2.56592e-06
    Incoming Energy [79859.9706982372, 92009.8444488578)
      Particle: neutron
        Total Material
-         Current                              5.55514e-05 +/- 7.68367e-06
+         Current                              6.57135e-05 +/- 2.60374e-06
    Incoming Energy [92009.8444488578, 106008.19661570266)
      Particle: neutron
        Total Material
-         Current                              5.19183e-05 +/- 7.39503e-06
+         Current                              6.27676e-05 +/- 2.71441e-06
    Incoming Energy [106008.19661570266, 122136.25419136346)
      Particle: neutron
        Total Material
-         Current                              6.49025e-05 +/- 8.22505e-06
+         Current                              6.79264e-05 +/- 2.49099e-06
    Incoming Energy [122136.25419136346, 140718.0299649367)
      Particle: neutron
        Total Material
-         Current                              0.000124639 +/- 1.27503e-05
+         Current                              0.000119046 +/- 3.2123e-06
    Incoming Energy [140718.0299649367, 162126.831941216)
      Particle: neutron
        Total Material
-         Current                              6.77128e-05 +/- 8.68716e-06
+         Current                              6.82499e-05 +/- 2.8918e-06
    Incoming Energy [162126.831941216, 186792.76310110986)
      Particle: neutron
        Total Material
-         Current                              0.000149407 +/- 1.19288e-05
+         Current                              0.000131104 +/- 3.75574e-06
    Incoming Energy [186792.76310110986, 215211.36217352553)
      Particle: neutron
        Total Material
-         Current                              8.68672e-05 +/- 8.75941e-06
+         Current                              8.03965e-05 +/- 3.04765e-06
    Incoming Energy [215211.36217352553, 247953.5590118865)
      Particle: neutron
        Total Material
-         Current                              0.000112042 +/- 1.16722e-05
+         Current                              0.000118503 +/- 3.44835e-06
    Incoming Energy [247953.5590118865, 285677.14457886666)
      Particle: neutron
        Total Material
-         Current                              0.000155318 +/- 1.28727e-05
+         Current                              0.000133633 +/- 4.21449e-06
    Incoming Energy [285677.14457886666, 329139.9859714147)
      Particle: neutron
        Total Material
-         Current                              0.000188119 +/- 1.39935e-05
+         Current                              0.000184026 +/- 3.83872e-06
    Incoming Energy [329139.9859714147, 379215.2519760139)
      Particle: neutron
        Total Material
-         Current                              0.000252421 +/- 1.50728e-05
+         Current                              0.000225116 +/- 4.80351e-06
    Incoming Energy [379215.2519760139, 436908.9550356878)
      Particle: neutron
        Total Material
-         Current                              0.000114198 +/- 1.27188e-05
+         Current                              0.000126718 +/- 3.8152e-06
    Incoming Energy [436908.9550356878, 503380.1620469915)
      Particle: neutron
        Total Material
-         Current                              0.000185982 +/- 1.56755e-05
+         Current                              0.000169836 +/- 3.91069e-06
    Incoming Energy [503380.1620469915, 579964.2800220422)
      Particle: neutron
        Total Material
-         Current                              0.000181363 +/- 1.35849e-05
+         Current                              0.000178515 +/- 4.43933e-06
    Incoming Energy [579964.2800220422, 668199.8844246987)
      Particle: neutron
        Total Material
-         Current                              0.000315632 +/- 2.13064e-05
+         Current                              0.000281097 +/- 5.83894e-06
    Incoming Energy [668199.8844246987, 769859.6291623531)
      Particle: neutron
        Total Material
-         Current                              0.000212464 +/- 1.29541e-05
+         Current                              0.000208348 +/- 4.97472e-06
    Incoming Energy [769859.6291623531, 886985.8592152859)
      Particle: neutron
        Total Material
-         Current                              0.000194608 +/- 1.44326e-05
+         Current                              0.000183853 +/- 4.5854e-06
    Incoming Energy [886985.8592152859, 1021931.6413615512)
      Particle: neutron
        Total Material
-         Current                              0.000254048 +/- 1.61468e-05
+         Current                              0.000205144 +/- 5.10345e-06
    Incoming Energy [1021931.6413615512, 1177408.03730495)
      Particle: neutron
        Total Material
-         Current                              0.000213208 +/- 1.63677e-05
+         Current                              0.000205874 +/- 4.83553e-06
    Incoming Energy [1177408.03730495, 1356538.5689235511)
      Particle: neutron
        Total Material
-         Current                              0.00020786 +/- 1.45934e-05
+         Current                              0.000207669 +/- 4.28731e-06
    Incoming Energy [1356538.5689235511, 1562921.9698459923)
      Particle: neutron
        Total Material
-         Current                              0.000175033 +/- 1.48095e-05
+         Current                              0.00018505 +/- 4.9686e-06
    Incoming Energy [1562921.9698459923, 1800704.4840351595)
      Particle: neutron
        Total Material
-         Current                              0.000204065 +/- 1.39783e-05
+         Current                              0.000196399 +/- 4.76474e-06
    Incoming Energy [1800704.4840351595, 2074663.1638582982)
      Particle: neutron
        Total Material
-         Current                              0.000157403 +/- 1.46054e-05
+         Current                              0.000180427 +/- 4.23523e-06
    Incoming Energy [2074663.1638582982, 2390301.841102364)
      Particle: neutron
        Total Material
-         Current                              0.000185659 +/- 1.4413e-05
+         Current                              0.000185585 +/- 4.58295e-06
    Incoming Energy [2390301.841102364, 2753961.69899298)
      Particle: neutron
        Total Material
-         Current                              0.000153 +/- 1.41032e-05
+         Current                              0.000168863 +/- 4.42062e-06
    Incoming Energy [2753961.69899298, 3172948.666609635)
      Particle: neutron
        Total Material
-         Current                              0.00017183 +/- 1.37589e-05
+         Current                              0.000182731 +/- 4.69786e-06
    Incoming Energy [3172948.666609635, 3655680.195051795)
      Particle: neutron
        Total Material
-         Current                              0.000215829 +/- 1.56304e-05
+         Current                              0.000190166 +/- 4.64278e-06
    Incoming Energy [3655680.195051795, 4211854.3640902)
      Particle: neutron
        Total Material
-         Current                              0.00016 +/- 1.3633e-05
+         Current                              0.0001975 +/- 4.29088e-06
    Incoming Energy [4211854.3640902, 4852644.716656982)
      Particle: neutron
        Total Material
-         Current                              0.000167 +/- 1.40025e-05
+         Current                              0.0002077 +/- 4.21602e-06
    Incoming Energy [4852644.716656982, 5590924.735401089)
      Particle: neutron
        Total Material
-         Current                              0.000223 +/- 1.54955e-05
+         Current                              0.0002347 +/- 4.66115e-06
    Incoming Energy [5590924.735401089, 6441526.471044408)
      Particle: neutron
        Total Material
-         Current                              0.000232 +/- 1.67501e-05
+         Current                              0.0002537 +/- 4.91679e-06
    Incoming Energy [6441526.471044408, 7421538.518384137)
      Particle: neutron
        Total Material
-         Current                              0.000284 +/- 1.68607e-05
+         Current                              0.0003197 +/- 5.56042e-06
    Incoming Energy [7421538.518384137, 8550649.326281361)
      Particle: neutron
        Total Material
-         Current                              0.000356 +/- 1.61633e-05
+         Current                              0.0003795 +/- 5.84371e-06
    Incoming Energy [8550649.326281361, 9851542.738735879)
      Particle: neutron
        Total Material
-         Current                              0.000528 +/- 2.25218e-05
+         Current                              0.0005558 +/- 7.37753e-06
    Incoming Energy [9851542.738735879, 11350353.713470262)
      Particle: neutron
        Total Material
-         Current                              0.000419 +/- 2.20511e-05
+         Current                              0.000468 +/- 8.11533e-06
    Incoming Energy [11350353.713470262, 13077193.37341263)
      Particle: neutron
        Total Material
-         Current                              0.000846 +/- 3.01987e-05
+         Current                              0.0008198 +/- 8.47692e-06
    Incoming Energy [13077193.37341263, 15066753.939366143)
      Particle: neutron
        Total Material
-         Current                              0.021381 +/- 0.000139238
+         Current                              0.0213146 +/- 4.75013e-05
    Incoming Energy [15066753.939366143, 17359005.696966715)
      Particle: neutron
        Total Material
@@ -2669,7 +2669,7 @@
    Incoming Energy [0.08636337356743713, 0.09950267322341869)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.28271e-07 +/- 4.28271e-07
    Incoming Energy [0.09950267322341869, 0.11464098227792577)
      Particle: neutron
        Total Material
@@ -2681,7 +2681,7 @@
    Incoming Energy [0.1320824294653673, 0.1521774135812942)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.90414e-07 +/- 4.90414e-07
    Incoming Energy [0.1521774135812942, 0.17532964299664375)
      Particle: neutron
        Total Material
@@ -2693,7 +2693,7 @@
    Incoming Energy [0.20200424616172638, 0.23273711604003247)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.00787e-06 +/- 3.00787e-06
    Incoming Energy [0.23273711604003247, 0.26814567620160473)
      Particle: neutron
        Total Material
@@ -2709,7 +2709,7 @@
    Incoming Energy [0.3559435260982109, 0.4100966752495598)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.15139e-07 +/- 3.15139e-07
    Incoming Energy [0.4100966752495598, 0.4724886694647717)
      Particle: neutron
        Total Material
@@ -2717,7 +2717,7 @@
    Incoming Energy [0.4724886694647717, 0.5443729643424607)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.89926e-06 +/- 2.89926e-06
    Incoming Energy [0.5443729643424607, 0.627193715867705)
      Particle: neutron
        Total Material
@@ -2729,7 +2729,7 @@
    Incoming Energy [0.7226147935158518, 0.8325532074018738)
      Particle: neutron
        Total Material
-         Flux                                 3.0023e-05 +/- 3.0023e-05
+         Flux                                 3.0023e-06 +/- 3.0023e-06
    Incoming Energy [0.8325532074018738, 0.9592176210269378)
      Particle: neutron
        Total Material
@@ -2745,11 +2745,11 @@
    Incoming Energy [1.2732903515742826, 1.467008391842138)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 9.64431e-07 +/- 9.64431e-07
    Incoming Energy [1.467008391842138, 1.6901986409261684)
      Particle: neutron
        Total Material
-         Flux                                 2.92923e-05 +/- 2.92923e-05
+         Flux                                 3.61346e-06 +/- 3.00135e-06
    Incoming Energy [1.6901986409261684, 1.947344992485959)
      Particle: neutron
        Total Material
@@ -2757,11 +2757,11 @@
    Incoming Energy [1.947344992485959, 2.243613518516484)
      Particle: neutron
        Total Material
-         Flux                                 1.92724e-05 +/- 1.92724e-05
+         Flux                                 1.92724e-06 +/- 1.92724e-06
    Incoming Energy [2.243613518516484, 2.5849562557704893)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.7875e-08 +/- 1.7875e-08
    Incoming Energy [2.5849562557704893, 2.978230782218339)
      Particle: neutron
        Total Material
@@ -2785,7 +2785,7 @@
    Incoming Energy [5.247820213186595, 6.046222122161734)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.49221e-06 +/- 2.49221e-06
    Incoming Energy [6.046222122161734, 6.966092675709234)
      Particle: neutron
        Total Material
@@ -2793,11 +2793,11 @@
    Incoming Energy [6.966092675709234, 8.025912079660733)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.91766e-06 +/- 1.66538e-06
    Incoming Energy [8.025912079660733, 9.246972113227855)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.00341e-06 +/- 3.00341e-06
    Incoming Energy [9.246972113227855, 10.65380388099493)
      Particle: neutron
        Total Material
@@ -2805,23 +2805,23 @@
    Incoming Energy [10.65380388099493, 12.274670642981077)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.78613e-06 +/- 3.10234e-06
    Incoming Energy [12.274670642981077, 14.142135623730951)
      Particle: neutron
        Total Material
-         Flux                                 1.49917e-05 +/- 1.49917e-05
+         Flux                                 1.49917e-06 +/- 1.49917e-06
    Incoming Energy [14.142135623730951, 16.293716207722802)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.687e-06 +/- 4.00735e-06
    Incoming Energy [16.293716207722802, 18.772637663884097)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 7.47659e-07 +/- 7.47659e-07
    Incoming Energy [18.772637663884097, 21.628701541545553)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.40238e-06 +/- 1.04615e-06
    Incoming Energy [21.628701541545553, 24.919286183914224)
      Particle: neutron
        Total Material
@@ -2833,7 +2833,7 @@
    Incoming Energy [28.710499459388483, 33.078506869094824)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.72786e-06 +/- 2.72786e-06
    Incoming Energy [33.078506869094824, 38.11106171233633)
      Particle: neutron
        Total Material
@@ -2841,7 +2841,7 @@
    Incoming Energy [38.11106171233633, 43.909268050987265)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.23113e-06 +/- 1.23113e-06
    Incoming Energy [43.909268050987265, 50.58961189080075)
      Particle: neutron
        Total Material
@@ -2849,11 +2849,11 @@
    Incoming Energy [50.58961189080075, 58.286301386076154)
      Particle: neutron
        Total Material
-         Flux                                 6.00547e-05 +/- 4.22501e-05
+         Flux                                 9.01698e-06 +/- 5.15311e-06
    Incoming Energy [58.286301386076154, 67.15396308241434)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.85909e-06 +/- 3.5191e-06
    Incoming Energy [67.15396308241434, 77.3707483650964)
      Particle: neutron
        Total Material
@@ -2861,11 +2861,11 @@
    Incoming Energy [77.3707483650964, 89.14191252165533)
      Particle: neutron
        Total Material
-         Flux                                 3.00004e-05 +/- 3.00004e-05
+         Flux                                 3.00004e-06 +/- 3.00004e-06
    Incoming Energy [89.14191252165533, 102.703938322034)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.10793e-06 +/- 3.18761e-06
    Incoming Energy [102.703938322034, 118.32928695908005)
      Particle: neutron
        Total Material
@@ -2873,11 +2873,11 @@
    Incoming Energy [118.32928695908005, 136.33187179580997)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.91361e-06 +/- 4.90605e-06
    Incoming Energy [136.33187179580997, 157.0733648870596)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.41672e-06 +/- 1.41672e-06
    Incoming Energy [157.0733648870596, 180.97046297358648)
      Particle: neutron
        Total Material
@@ -2897,23 +2897,23 @@
    Incoming Energy [276.77263432002053, 318.8807459961642)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.05336e-06 +/- 2.05336e-06
    Incoming Energy [318.8807459961642, 367.3951740817562)
      Particle: neutron
        Total Material
-         Flux                                 3.00035e-05 +/- 3.00035e-05
+         Flux                                 3.79452e-06 +/- 3.09592e-06
    Incoming Energy [367.3951740817562, 423.2905737751491)
      Particle: neutron
        Total Material
-         Flux                                 3.00226e-05 +/- 3.00226e-05
+         Flux                                 3.00226e-06 +/- 3.00226e-06
    Incoming Energy [423.2905737751491, 487.68988404573685)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.91381e-06 +/- 4.16098e-06
    Incoming Energy [487.68988404573685, 561.8868874856754)
      Particle: neutron
        Total Material
-         Flux                                 3.00235e-05 +/- 3.00235e-05
+         Flux                                 6.18976e-06 +/- 4.27725e-06
    Incoming Energy [561.8868874856754, 647.3722024111769)
      Particle: neutron
        Total Material
@@ -2921,23 +2921,23 @@
    Incoming Energy [647.3722024111769, 745.8632293948697)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.00066e-06 +/- 3.00066e-06
    Incoming Energy [745.8632293948697, 859.3386538552732)
      Particle: neutron
        Total Material
-         Flux                                 1.04635e-05 +/- 1.04635e-05
+         Flux                                 4.04883e-06 +/- 3.16959e-06
    Incoming Energy [859.3386538552732, 990.0781978606442)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 8.87206e-06 +/- 5.07201e-06
    Incoming Energy [990.0781978606442, 1140.708419761218)
      Particle: neutron
        Total Material
-         Flux                                 2.61462e-05 +/- 2.61462e-05
+         Flux                                 1.0519e-05 +/- 5.25747e-06
    Incoming Energy [1140.708419761218, 1314.255481764769)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.59931e-06 +/- 3.38841e-06
    Incoming Energy [1314.255481764769, 1514.2059455564554)
      Particle: neutron
        Total Material
@@ -2945,43 +2945,43 @@
    Incoming Energy [1514.2059455564554, 1744.576817347373)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 9.8965e-06 +/- 5.17962e-06
    Incoming Energy [1744.576817347373, 2009.996249557332)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.01095e-06 +/- 3.59613e-06
    Incoming Energy [2009.996249557332, 2315.7965204292263)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.00191e-06 +/- 4.2225e-06
    Incoming Energy [2315.7965204292263, 2668.121159536096)
      Particle: neutron
        Total Material
-         Flux                                 3.00232e-05 +/- 3.00232e-05
+         Flux                                 4.87589e-06 +/- 3.52286e-06
    Incoming Energy [2668.121159536096, 3074.0483713330545)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.01176e-06 +/- 3.01176e-06
    Incoming Energy [3074.0483713330545, 3541.7332363341625)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.79154e-07 +/- 4.79154e-07
    Incoming Energy [3541.7332363341625, 4080.5715467367336)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.00102e-06 +/- 3.00102e-06
    Incoming Energy [4080.5715467367336, 4701.388567952099)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 9.00743e-06 +/- 6.68458e-06
    Incoming Energy [4701.388567952099, 5416.656518263153)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.2562e-06 +/- 7.89076e-07
    Incoming Energy [5416.656518263153, 6240.745135776586)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.51714e-06 +/- 3.34825e-06
    Incoming Energy [6240.745135776586, 7190.210366561586)
      Particle: neutron
        Total Material
@@ -2989,219 +2989,219 @@
    Incoming Energy [7190.210366561586, 8284.126973721764)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.82453e-06 +/- 3.24876e-06
    Incoming Energy [8284.126973721764, 9544.47174951883)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.00068e-06 +/- 4.22164e-06
    Incoming Energy [9544.47174951883, 10996.56502928231)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.10899e-06 +/- 3.18861e-06
    Incoming Energy [10996.56502928231, 12669.579377122773)
      Particle: neutron
        Total Material
-         Flux                                 4.12011e-05 +/- 3.19185e-05
+         Flux                                 1.90231e-05 +/- 6.84775e-06
    Incoming Energy [12669.579377122773, 14597.125662948121)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 7.49884e-06 +/- 6.17078e-06
    Incoming Energy [14597.125662948121, 16817.92830507429)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.25728e-07 +/- 5.89828e-07
    Incoming Energy [16817.92830507429, 19376.603244059108)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.89111e-06 +/- 4.14529e-06
    Incoming Energy [19376.603244059108, 22324.55427725903)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.1556e-06 +/- 3.94127e-06
    Incoming Energy [22324.55427725903, 25721.005761476288)
      Particle: neutron
        Total Material
-         Flux                                 8.55834e-05 +/- 4.72697e-05
+         Flux                                 4.8051e-05 +/- 1.22185e-05
    Incoming Energy [25721.005761476288, 29634.1924306998)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.211e-05 +/- 5.80996e-06
    Incoming Energy [29634.1924306998, 34142.73023238656)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.00043e-06 +/- 3.00043e-06
    Incoming Energy [34142.73023238656, 39337.19572239394)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.01472e-05 +/- 5.16107e-06
    Incoming Energy [39337.19572239394, 45321.94574861815)
      Particle: neutron
        Total Material
-         Flux                                 3.13242e-05 +/- 3.00523e-05
+         Flux                                 2.11425e-05 +/- 7.69557e-06
    Incoming Energy [45321.94574861815, 52217.21398079572)
      Particle: neutron
        Total Material
-         Flux                                 6.03891e-05 +/- 4.24862e-05
+         Flux                                 2.3305e-05 +/- 8.45972e-06
    Incoming Energy [52217.21398079572, 60161.52640576651)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.75223e-05 +/- 6.14982e-06
    Incoming Energy [60161.52640576651, 69314.48431551472)
      Particle: neutron
        Total Material
-         Flux                                 8.94672e-06 +/- 8.94672e-06
+         Flux                                 2.90028e-05 +/- 9.45193e-06
    Incoming Energy [69314.48431551472, 79859.9706982372)
      Particle: neutron
        Total Material
-         Flux                                 3.00033e-05 +/- 3.00033e-05
+         Flux                                 2.25359e-05 +/- 7.45176e-06
    Incoming Energy [79859.9706982372, 92009.8444488578)
      Particle: neutron
        Total Material
-         Flux                                 8.10331e-06 +/- 8.10331e-06
+         Flux                                 3.89607e-05 +/- 1.13296e-05
    Incoming Energy [92009.8444488578, 106008.19661570266)
      Particle: neutron
        Total Material
-         Flux                                 3.00019e-05 +/- 3.00019e-05
+         Flux                                 3.38795e-05 +/- 9.05735e-06
    Incoming Energy [106008.19661570266, 122136.25419136346)
      Particle: neutron
        Total Material
-         Flux                                 3.0003e-05 +/- 3.0003e-05
+         Flux                                 4.99736e-05 +/- 1.18414e-05
    Incoming Energy [122136.25419136346, 140718.0299649367)
      Particle: neutron
        Total Material
-         Flux                                 0.000117534 +/- 5.41093e-05
+         Flux                                 8.81484e-05 +/- 1.42239e-05
    Incoming Energy [140718.0299649367, 162126.831941216)
      Particle: neutron
        Total Material
-         Flux                                 2.91555e-05 +/- 2.91555e-05
+         Flux                                 2.84146e-05 +/- 8.12109e-06
    Incoming Energy [162126.831941216, 186792.76310110986)
      Particle: neutron
        Total Material
-         Flux                                 0.000146688 +/- 7.48384e-05
+         Flux                                 0.000113003 +/- 2.02783e-05
    Incoming Energy [186792.76310110986, 215211.36217352553)
      Particle: neutron
        Total Material
-         Flux                                 4.07378e-05 +/- 3.17665e-05
+         Flux                                 4.9641e-05 +/- 1.23392e-05
    Incoming Energy [215211.36217352553, 247953.5590118865)
      Particle: neutron
        Total Material
-         Flux                                 0.000236573 +/- 9.12719e-05
+         Flux                                 0.00012905 +/- 2.02141e-05
    Incoming Energy [247953.5590118865, 285677.14457886666)
      Particle: neutron
        Total Material
-         Flux                                 0.00025886 +/- 8.34283e-05
+         Flux                                 9.75769e-05 +/- 1.67982e-05
    Incoming Energy [285677.14457886666, 329139.9859714147)
      Particle: neutron
        Total Material
-         Flux                                 6.07416e-05 +/- 4.22311e-05
+         Flux                                 0.000173883 +/- 2.44474e-05
    Incoming Energy [329139.9859714147, 379215.2519760139)
      Particle: neutron
        Total Material
-         Flux                                 0.000406297 +/- 0.000106821
+         Flux                                 0.000253255 +/- 2.5534e-05
    Incoming Energy [379215.2519760139, 436908.9550356878)
      Particle: neutron
        Total Material
-         Flux                                 5.09026e-05 +/- 3.63908e-05
+         Flux                                 8.79711e-05 +/- 1.53003e-05
    Incoming Energy [436908.9550356878, 503380.1620469915)
      Particle: neutron
        Total Material
-         Flux                                 0.000183291 +/- 8.08674e-05
+         Flux                                 0.000143608 +/- 2.12837e-05
    Incoming Energy [503380.1620469915, 579964.2800220422)
      Particle: neutron
        Total Material
-         Flux                                 9.18426e-05 +/- 4.74097e-05
+         Flux                                 0.00018394 +/- 2.63088e-05
    Incoming Energy [579964.2800220422, 668199.8844246987)
      Particle: neutron
        Total Material
-         Flux                                 0.000371742 +/- 0.000105074
+         Flux                                 0.00027603 +/- 2.90459e-05
    Incoming Energy [668199.8844246987, 769859.6291623531)
      Particle: neutron
        Total Material
-         Flux                                 0.000377913 +/- 0.000112388
+         Flux                                 0.00027184 +/- 3.04612e-05
    Incoming Energy [769859.6291623531, 886985.8592152859)
      Particle: neutron
        Total Material
-         Flux                                 0.00018311 +/- 7.16301e-05
+         Flux                                 0.00020956 +/- 2.37969e-05
    Incoming Energy [886985.8592152859, 1021931.6413615512)
      Particle: neutron
        Total Material
-         Flux                                 0.000305504 +/- 8.67944e-05
+         Flux                                 0.000223308 +/- 2.79593e-05
    Incoming Energy [1021931.6413615512, 1177408.03730495)
      Particle: neutron
        Total Material
-         Flux                                 0.000363967 +/- 0.000104349
+         Flux                                 0.000275502 +/- 2.75471e-05
    Incoming Energy [1177408.03730495, 1356538.5689235511)
      Particle: neutron
        Total Material
-         Flux                                 0.000318746 +/- 9.81361e-05
+         Flux                                 0.000294292 +/- 3.37367e-05
    Incoming Energy [1356538.5689235511, 1562921.9698459923)
      Particle: neutron
        Total Material
-         Flux                                 0.000142377 +/- 7.27369e-05
+         Flux                                 0.000248639 +/- 2.80538e-05
    Incoming Energy [1562921.9698459923, 1800704.4840351595)
      Particle: neutron
        Total Material
-         Flux                                 0.000150703 +/- 7.09757e-05
+         Flux                                 0.000256851 +/- 2.87672e-05
    Incoming Energy [1800704.4840351595, 2074663.1638582982)
      Particle: neutron
        Total Material
-         Flux                                 0.000310094 +/- 9.79233e-05
+         Flux                                 0.000240199 +/- 2.60339e-05
    Incoming Energy [2074663.1638582982, 2390301.841102364)
      Particle: neutron
        Total Material
-         Flux                                 0.000190614 +/- 9.70029e-05
+         Flux                                 0.000205361 +/- 2.44707e-05
    Incoming Energy [2390301.841102364, 2753961.69899298)
      Particle: neutron
        Total Material
-         Flux                                 0.00016809 +/- 8.00704e-05
+         Flux                                 0.000169095 +/- 2.23095e-05
    Incoming Energy [2753961.69899298, 3172948.666609635)
      Particle: neutron
        Total Material
-         Flux                                 0.000206732 +/- 7.27006e-05
+         Flux                                 0.00018043 +/- 2.21513e-05
    Incoming Energy [3172948.666609635, 3655680.195051795)
      Particle: neutron
        Total Material
-         Flux                                 0.000229655 +/- 7.45639e-05
+         Flux                                 0.000151181 +/- 2.09419e-05
    Incoming Energy [3655680.195051795, 4211854.3640902)
      Particle: neutron
        Total Material
-         Flux                                 1.75941e-05 +/- 1.21682e-05
+         Flux                                 0.00013637 +/- 2.12243e-05
    Incoming Energy [4211854.3640902, 4852644.716656982)
      Particle: neutron
        Total Material
-         Flux                                 7.83156e-05 +/- 4.43199e-05
+         Flux                                 0.000111582 +/- 1.7116e-05
    Incoming Energy [4852644.716656982, 5590924.735401089)
      Particle: neutron
        Total Material
-         Flux                                 6.05371e-05 +/- 4.11922e-05
+         Flux                                 0.000143087 +/- 1.94837e-05
    Incoming Energy [5590924.735401089, 6441526.471044408)
      Particle: neutron
        Total Material
-         Flux                                 0.000193479 +/- 8.13044e-05
+         Flux                                 0.000121089 +/- 1.81961e-05
    Incoming Energy [6441526.471044408, 7421538.518384137)
      Particle: neutron
        Total Material
-         Flux                                 6.00571e-05 +/- 4.22518e-05
+         Flux                                 9.64008e-05 +/- 1.55306e-05
    Incoming Energy [7421538.518384137, 8550649.326281361)
      Particle: neutron
        Total Material
-         Flux                                 6.37626e-05 +/- 4.23007e-05
+         Flux                                 0.000102127 +/- 1.69649e-05
    Incoming Energy [8550649.326281361, 9851542.738735879)
      Particle: neutron
        Total Material
-         Flux                                 0.000177369 +/- 6.65836e-05
+         Flux                                 0.000126772 +/- 1.85224e-05
    Incoming Energy [9851542.738735879, 11350353.713470262)
      Particle: neutron
        Total Material
-         Flux                                 0.000158397 +/- 6.46141e-05
+         Flux                                 0.000119563 +/- 1.89354e-05
    Incoming Energy [11350353.713470262, 13077193.37341263)
      Particle: neutron
        Total Material
-         Flux                                 0.000371343 +/- 0.000127911
+         Flux                                 0.000318597 +/- 3.10145e-05
    Incoming Energy [13077193.37341263, 15066753.939366143)
      Particle: neutron
        Total Material
-         Flux                                 0.0619324 +/- 0.00128896
+         Flux                                 0.0613143 +/- 0.000434085
    Incoming Energy [15066753.939366143, 17359005.696966715)
      Particle: neutron
        Total Material
@@ -3424,7 +3424,7 @@
    Incoming Energy [0.015785843716417006, 0.018187497592878143)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.4726e-08 +/- 2.4726e-08
    Incoming Energy [0.018187497592878143, 0.020954538422734887)
      Particle: neutron
        Total Material
@@ -3440,11 +3440,11 @@
    Incoming Energy [0.027815597848167208, 0.03204745517541666)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.18278e-08 +/- 2.18278e-08
    Incoming Energy [0.03204745517541666, 0.03692314610048959)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 8.44758e-08 +/- 8.44758e-08
    Incoming Energy [0.03692314610048959, 0.04254062328805098)
      Particle: neutron
        Total Material
@@ -3452,19 +3452,19 @@
    Incoming Energy [0.04254062328805098, 0.049012741893948976)
      Particle: neutron
        Total Material
-         Flux                                 2.45769e-06 +/- 2.45769e-06
+         Flux                                 5.29222e-07 +/- 3.28991e-07
    Incoming Energy [0.049012741893948976, 0.056469526826082424)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.1212e-07 +/- 2.1212e-07
    Incoming Energy [0.056469526826082424, 0.06506078494570668)
      Particle: neutron
        Total Material
-         Flux                                 2.09756e-06 +/- 2.09756e-06
+         Flux                                 4.23993e-07 +/- 2.98307e-07
    Incoming Energy [0.06506078494570668, 0.0749591146883203)
      Particle: neutron
        Total Material
-         Flux                                 7.7008e-07 +/- 7.7008e-07
+         Flux                                 3.91156e-07 +/- 2.07366e-07
    Incoming Energy [0.0749591146883203, 0.08636337356743713)
      Particle: neutron
        Total Material
@@ -3476,15 +3476,15 @@
    Incoming Energy [0.09950267322341869, 0.11464098227792577)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.82929e-08 +/- 6.82929e-08
    Incoming Energy [0.11464098227792577, 0.1320824294653673)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.11782e-07 +/- 2.11782e-07
    Incoming Energy [0.1320824294653673, 0.1521774135812942)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.57157e-08 +/- 3.57157e-08
    Incoming Energy [0.1521774135812942, 0.17532964299664375)
      Particle: neutron
        Total Material
@@ -3492,207 +3492,207 @@
    Incoming Energy [0.17532964299664375, 0.20200424616172638)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.23893e-07 +/- 2.58003e-07
    Incoming Energy [0.20200424616172638, 0.23273711604003247)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.08052e-07 +/- 1.86352e-07
    Incoming Energy [0.23273711604003247, 0.26814567620160473)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.16653e-07 +/- 2.16653e-07
    Incoming Energy [0.26814567620160473, 0.3089412848668632)
      Particle: neutron
        Total Material
-         Flux                                 2.10246e-06 +/- 2.10246e-06
+         Flux                                 8.42126e-07 +/- 3.9619e-07
    Incoming Energy [0.3089412848668632, 0.3559435260982109)
      Particle: neutron
        Total Material
-         Flux                                 2.1143e-06 +/- 2.1143e-06
+         Flux                                 6.48024e-07 +/- 3.73867e-07
    Incoming Energy [0.3559435260982109, 0.4100966752495598)
      Particle: neutron
        Total Material
-         Flux                                 3.16986e-06 +/- 2.44887e-06
+         Flux                                 7.46505e-07 +/- 3.5369e-07
    Incoming Energy [0.4100966752495598, 0.4724886694647717)
      Particle: neutron
        Total Material
-         Flux                                 3.52201e-07 +/- 3.52201e-07
+         Flux                                 1.61991e-07 +/- 1.31229e-07
    Incoming Energy [0.4724886694647717, 0.5443729643424607)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 8.59648e-08 +/- 6.32722e-08
    Incoming Energy [0.5443729643424607, 0.627193715867705)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.24461e-07 +/- 2.35905e-07
    Incoming Energy [0.627193715867705, 0.7226147935158518)
      Particle: neutron
        Total Material
-         Flux                                 7.58938e-07 +/- 7.58938e-07
+         Flux                                 1.84667e-07 +/- 1.1431e-07
    Incoming Energy [0.7226147935158518, 0.8325532074018738)
      Particle: neutron
        Total Material
-         Flux                                 2.12982e-06 +/- 2.12982e-06
+         Flux                                 2.12982e-07 +/- 2.12982e-07
    Incoming Energy [0.8325532074018738, 0.9592176210269378)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.86466e-07 +/- 2.2589e-07
    Incoming Energy [0.9592176210269378, 1.105152723343536)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.50788e-07 +/- 3.3156e-07
    Incoming Energy [1.105152723343536, 1.2732903515742826)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.08403e-08 +/- 2.94419e-08
    Incoming Energy [1.2732903515742826, 1.467008391842138)
      Particle: neutron
        Total Material
-         Flux                                 2.1289e-06 +/- 2.1289e-06
+         Flux                                 3.44699e-07 +/- 2.44164e-07
    Incoming Energy [1.467008391842138, 1.6901986409261684)
      Particle: neutron
        Total Material
-         Flux                                 2.02083e-07 +/- 2.02083e-07
+         Flux                                 3.43877e-07 +/- 2.32036e-07
    Incoming Energy [1.6901986409261684, 1.947344992485959)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.09884e-07 +/- 1.61949e-07
    Incoming Energy [1.947344992485959, 2.243613518516484)
      Particle: neutron
        Total Material
-         Flux                                 1.91205e-07 +/- 1.91205e-07
+         Flux                                 3.9207e-07 +/- 2.57171e-07
    Incoming Energy [2.243613518516484, 2.5849562557704893)
      Particle: neutron
        Total Material
-         Flux                                 2.04192e-06 +/- 2.04192e-06
+         Flux                                 3.2596e-07 +/- 2.2596e-07
    Incoming Energy [2.5849562557704893, 2.978230782218339)
      Particle: neutron
        Total Material
-         Flux                                 2.15103e-06 +/- 2.15103e-06
+         Flux                                 1.02632e-06 +/- 4.50819e-07
    Incoming Energy [2.978230782218339, 3.4313379858372306)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.24917e-07 +/- 3.08103e-07
    Incoming Energy [3.4313379858372306, 3.9533807935057212)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.64865e-07 +/- 1.90067e-07
    Incoming Energy [3.9533807935057212, 4.55484704886816)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 7.35352e-07 +/- 3.50754e-07
    Incoming Energy [4.55484704886816, 5.247820213186595)
      Particle: neutron
        Total Material
-         Flux                                 2.39723e-06 +/- 2.39723e-06
+         Flux                                 5.8106e-07 +/- 3.27111e-07
    Incoming Energy [5.247820213186595, 6.046222122161734)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 3.42767e-07 +/- 2.65884e-07
    Incoming Energy [6.046222122161734, 6.966092675709234)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.96032e-07 +/- 3.505e-07
    Incoming Energy [6.966092675709234, 8.025912079660733)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.82099e-07 +/- 2.87074e-07
    Incoming Energy [8.025912079660733, 9.246972113227855)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.68794e-07 +/- 2.25209e-07
    Incoming Energy [9.246972113227855, 10.65380388099493)
      Particle: neutron
        Total Material
-         Flux                                 6.07368e-07 +/- 6.07368e-07
+         Flux                                 3.45025e-07 +/- 2.18619e-07
    Incoming Energy [10.65380388099493, 12.274670642981077)
      Particle: neutron
        Total Material
-         Flux                                 2.06984e-06 +/- 2.06984e-06
+         Flux                                 8.19721e-07 +/- 3.90969e-07
    Incoming Energy [12.274670642981077, 14.142135623730951)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 2.86773e-07 +/- 2.59474e-07
    Incoming Energy [14.142135623730951, 16.293716207722802)
      Particle: neutron
        Total Material
-         Flux                                 4.27412e-06 +/- 3.08678e-06
+         Flux                                 1.46011e-06 +/- 5.58026e-07
    Incoming Energy [16.293716207722802, 18.772637663884097)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 7.46049e-07 +/- 3.31693e-07
    Incoming Energy [18.772637663884097, 21.628701541545553)
      Particle: neutron
        Total Material
-         Flux                                 5.00245e-07 +/- 5.00245e-07
+         Flux                                 6.62542e-07 +/- 3.14069e-07
    Incoming Energy [21.628701541545553, 24.919286183914224)
      Particle: neutron
        Total Material
-         Flux                                 2.89069e-06 +/- 2.28704e-06
+         Flux                                 2.04215e-06 +/- 6.03005e-07
    Incoming Energy [24.919286183914224, 28.710499459388483)
      Particle: neutron
        Total Material
-         Flux                                 1.08001e-06 +/- 1.08001e-06
+         Flux                                 8.10779e-07 +/- 3.64833e-07
    Incoming Energy [28.710499459388483, 33.078506869094824)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 7.20805e-07 +/- 3.59267e-07
    Incoming Energy [33.078506869094824, 38.11106171233633)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.72795e-07 +/- 3.58897e-07
    Incoming Energy [38.11106171233633, 43.909268050987265)
      Particle: neutron
        Total Material
-         Flux                                 3.61051e-06 +/- 2.56046e-06
+         Flux                                 1.12032e-06 +/- 4.39188e-07
    Incoming Energy [43.909268050987265, 50.58961189080075)
      Particle: neutron
        Total Material
-         Flux                                 2.61044e-07 +/- 2.61044e-07
+         Flux                                 1.34836e-06 +/- 4.83908e-07
    Incoming Energy [50.58961189080075, 58.286301386076154)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.27566e-06 +/- 4.981e-07
    Incoming Energy [58.286301386076154, 67.15396308241434)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 4.32319e-07 +/- 2.58429e-07
    Incoming Energy [67.15396308241434, 77.3707483650964)
      Particle: neutron
        Total Material
-         Flux                                 1.70747e-06 +/- 1.67128e-06
+         Flux                                 7.98357e-07 +/- 3.62381e-07
    Incoming Energy [77.3707483650964, 89.14191252165533)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 8.94439e-07 +/- 4.12043e-07
    Incoming Energy [89.14191252165533, 102.703938322034)
      Particle: neutron
        Total Material
-         Flux                                 3.03392e-06 +/- 2.14642e-06
+         Flux                                 1.11507e-06 +/- 4.01461e-07
    Incoming Energy [102.703938322034, 118.32928695908005)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.59832e-07 +/- 3.50749e-07
    Incoming Energy [118.32928695908005, 136.33187179580997)
      Particle: neutron
        Total Material
-         Flux                                 3.73927e-07 +/- 3.73927e-07
+         Flux                                 3.41474e-07 +/- 2.12452e-07
    Incoming Energy [136.33187179580997, 157.0733648870596)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.6605e-07 +/- 1.6605e-07
    Incoming Energy [157.0733648870596, 180.97046297358648)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.53735e-07 +/- 2.6668e-07
    Incoming Energy [180.97046297358648, 208.50325892249575)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 7.28559e-07 +/- 3.22556e-07
    Incoming Energy [208.50325892249575, 240.22488679628609)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.28813e-07 +/- 3.39496e-07
    Incoming Energy [240.22488679628609, 276.77263432002053)
      Particle: neutron
        Total Material
@@ -3700,311 +3700,311 @@
    Incoming Energy [276.77263432002053, 318.8807459961642)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 8.65028e-07 +/- 4.02302e-07
    Incoming Energy [318.8807459961642, 367.3951740817562)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 9.7782e-07 +/- 3.80978e-07
    Incoming Energy [367.3951740817562, 423.2905737751491)
      Particle: neutron
        Total Material
-         Flux                                 3.50903e-07 +/- 3.50903e-07
+         Flux                                 9.77779e-07 +/- 4.29704e-07
    Incoming Energy [423.2905737751491, 487.68988404573685)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 6.14295e-07 +/- 3.07732e-07
    Incoming Energy [487.68988404573685, 561.8868874856754)
      Particle: neutron
        Total Material
-         Flux                                 2.01188e-06 +/- 2.01188e-06
+         Flux                                 1.75666e-06 +/- 5.71691e-07
    Incoming Energy [561.8868874856754, 647.3722024111769)
      Particle: neutron
        Total Material
-         Flux                                 2.11856e-06 +/- 2.11856e-06
+         Flux                                 1.26367e-06 +/- 4.87536e-07
    Incoming Energy [647.3722024111769, 745.8632293948697)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.14415e-06 +/- 5.08371e-07
    Incoming Energy [745.8632293948697, 859.3386538552732)
      Particle: neutron
        Total Material
-         Flux                                 1.08637e-06 +/- 1.0291e-06
+         Flux                                 1.04398e-06 +/- 4.1005e-07
    Incoming Energy [859.3386538552732, 990.0781978606442)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.15469e-06 +/- 4.55997e-07
    Incoming Energy [990.0781978606442, 1140.708419761218)
      Particle: neutron
        Total Material
-         Flux                                 2.40832e-06 +/- 2.12507e-06
+         Flux                                 1.65928e-06 +/- 5.33933e-07
    Incoming Energy [1140.708419761218, 1314.255481764769)
      Particle: neutron
        Total Material
-         Flux                                 2.12246e-06 +/- 2.12246e-06
+         Flux                                 1.97965e-06 +/- 6.86528e-07
    Incoming Energy [1314.255481764769, 1514.2059455564554)
      Particle: neutron
        Total Material
-         Flux                                 2.7348e-06 +/- 2.14269e-06
+         Flux                                 1.67427e-06 +/- 5.3233e-07
    Incoming Energy [1514.2059455564554, 1744.576817347373)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.18776e-06 +/- 4.44927e-07
    Incoming Energy [1744.576817347373, 2009.996249557332)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 5.11984e-07 +/- 2.83912e-07
    Incoming Energy [2009.996249557332, 2315.7965204292263)
      Particle: neutron
        Total Material
-         Flux                                 1.35132e-06 +/- 1.06465e-06
+         Flux                                 1.96286e-06 +/- 5.87973e-07
    Incoming Energy [2315.7965204292263, 2668.121159536096)
      Particle: neutron
        Total Material
-         Flux                                 2.08269e-06 +/- 2.08269e-06
+         Flux                                 2.01868e-06 +/- 5.62003e-07
    Incoming Energy [2668.121159536096, 3074.0483713330545)
      Particle: neutron
        Total Material
-         Flux                                 2.99641e-06 +/- 2.24506e-06
+         Flux                                 1.92475e-06 +/- 5.8602e-07
    Incoming Energy [3074.0483713330545, 3541.7332363341625)
      Particle: neutron
        Total Material
-         Flux                                 2.33309e-06 +/- 2.33309e-06
+         Flux                                 2.13962e-06 +/- 5.74907e-07
    Incoming Energy [3541.7332363341625, 4080.5715467367336)
      Particle: neutron
        Total Material
-         Flux                                 4.23686e-06 +/- 3.01566e-06
+         Flux                                 1.31738e-06 +/- 5.71814e-07
    Incoming Energy [4080.5715467367336, 4701.388567952099)
      Particle: neutron
        Total Material
-         Flux                                 2.0379e-06 +/- 2.0379e-06
+         Flux                                 1.81856e-06 +/- 6.15468e-07
    Incoming Energy [4701.388567952099, 5416.656518263153)
      Particle: neutron
        Total Material
-         Flux                                 2.36862e-07 +/- 2.36862e-07
+         Flux                                 1.41523e-06 +/- 4.94538e-07
    Incoming Energy [5416.656518263153, 6240.745135776586)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.20324e-06 +/- 4.48518e-07
    Incoming Energy [6240.745135776586, 7190.210366561586)
      Particle: neutron
        Total Material
-         Flux                                 2.23883e-06 +/- 2.19555e-06
+         Flux                                 1.55911e-06 +/- 4.842e-07
    Incoming Energy [7190.210366561586, 8284.126973721764)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.39715e-06 +/- 5.04691e-07
    Incoming Energy [8284.126973721764, 9544.47174951883)
      Particle: neutron
        Total Material
-         Flux                                 2.60102e-06 +/- 1.955e-06
+         Flux                                 1.78967e-06 +/- 5.71748e-07
    Incoming Energy [9544.47174951883, 10996.56502928231)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.54421e-06 +/- 5.34109e-07
    Incoming Energy [10996.56502928231, 12669.579377122773)
      Particle: neutron
        Total Material
-         Flux                                 0 +/- 0
+         Flux                                 1.98505e-06 +/- 5.55259e-07
    Incoming Energy [12669.579377122773, 14597.125662948121)
      Particle: neutron
        Total Material
-         Flux                                 3.42305e-06 +/- 2.47334e-06
+         Flux                                 1.23834e-06 +/- 4.62958e-07
    Incoming Energy [14597.125662948121, 16817.92830507429)
      Particle: neutron
        Total Material
-         Flux                                 8.57831e-08 +/- 8.57831e-08
+         Flux                                 3.02781e-06 +/- 1.11369e-06
    Incoming Energy [16817.92830507429, 19376.603244059108)
      Particle: neutron
        Total Material
-         Flux                                 6.51795e-06 +/- 3.53364e-06
+         Flux                                 2.45786e-06 +/- 7.36511e-07
    Incoming Energy [19376.603244059108, 22324.55427725903)
      Particle: neutron
        Total Material
-         Flux                                 5.04759e-07 +/- 5.04759e-07
+         Flux                                 2.60945e-06 +/- 6.5147e-07
    Incoming Energy [22324.55427725903, 25721.005761476288)
      Particle: neutron
        Total Material
-         Flux                                 3.99612e-06 +/- 2.3939e-06
+         Flux                                 4.07076e-06 +/- 7.61142e-07
    Incoming Energy [25721.005761476288, 29634.1924306998)
      Particle: neutron
        Total Material
-         Flux                                 4.36979e-06 +/- 3.08332e-06
+         Flux                                 1.52478e-06 +/- 5.15834e-07
    Incoming Energy [29634.1924306998, 34142.73023238656)
      Particle: neutron
        Total Material
-         Flux                                 5.84672e-06 +/- 3.01834e-06
+         Flux                                 1.76299e-06 +/- 5.10008e-07
    Incoming Energy [34142.73023238656, 39337.19572239394)
      Particle: neutron
        Total Material
-         Flux                                 3.51995e-06 +/- 2.27779e-06
+         Flux                                 2.98116e-06 +/- 7.22901e-07
    Incoming Energy [39337.19572239394, 45321.94574861815)
      Particle: neutron
        Total Material
-         Flux                                 5.91286e-06 +/- 3.43518e-06
+         Flux                                 3.34733e-06 +/- 7.00429e-07
    Incoming Energy [45321.94574861815, 52217.21398079572)
      Particle: neutron
        Total Material
-         Flux                                 5.16195e-06 +/- 2.32318e-06
+         Flux                                 2.41319e-06 +/- 5.80098e-07
    Incoming Energy [52217.21398079572, 60161.52640576651)
      Particle: neutron
        Total Material
-         Flux                                 4.14048e-06 +/- 2.91437e-06
+         Flux                                 2.54099e-06 +/- 6.3454e-07
    Incoming Energy [60161.52640576651, 69314.48431551472)
      Particle: neutron
        Total Material
-         Flux                                 4.40771e-06 +/- 2.82989e-06
+         Flux                                 3.16643e-06 +/- 6.95676e-07
    Incoming Energy [69314.48431551472, 79859.9706982372)
      Particle: neutron
        Total Material
-         Flux                                 4.09444e-06 +/- 2.88121e-06
+         Flux                                 4.50487e-06 +/- 8.45167e-07
    Incoming Energy [79859.9706982372, 92009.8444488578)
      Particle: neutron
        Total Material
-         Flux                                 4.69031e-06 +/- 2.92591e-06
+         Flux                                 4.02496e-06 +/- 9.75148e-07
    Incoming Energy [92009.8444488578, 106008.19661570266)
      Particle: neutron
        Total Material
-         Flux                                 4.35853e-06 +/- 3.08619e-06
+         Flux                                 5.10542e-06 +/- 9.76522e-07
    Incoming Energy [106008.19661570266, 122136.25419136346)
      Particle: neutron
        Total Material
-         Flux                                 2.29722e-06 +/- 2.20051e-06
+         Flux                                 5.23689e-06 +/- 9.4427e-07
    Incoming Energy [122136.25419136346, 140718.0299649367)
      Particle: neutron
        Total Material
-         Flux                                 5.8835e-06 +/- 3.07199e-06
+         Flux                                 8.31758e-06 +/- 1.18048e-06
    Incoming Energy [140718.0299649367, 162126.831941216)
      Particle: neutron
        Total Material
-         Flux                                 2.15463e-06 +/- 2.15463e-06
+         Flux                                 3.11695e-06 +/- 7.78719e-07
    Incoming Energy [162126.831941216, 186792.76310110986)
      Particle: neutron
        Total Material
-         Flux                                 1.48361e-05 +/- 5.04078e-06
+         Flux                                 1.05683e-05 +/- 1.60209e-06
    Incoming Energy [186792.76310110986, 215211.36217352553)
      Particle: neutron
        Total Material
-         Flux                                 5.51278e-06 +/- 3.10339e-06
+         Flux                                 7.36993e-06 +/- 1.23608e-06
    Incoming Energy [215211.36217352553, 247953.5590118865)
      Particle: neutron
        Total Material
-         Flux                                 1.49167e-05 +/- 5.2067e-06
+         Flux                                 9.23259e-06 +/- 1.41291e-06
    Incoming Energy [247953.5590118865, 285677.14457886666)
      Particle: neutron
        Total Material
-         Flux                                 1.09782e-05 +/- 4.41705e-06
+         Flux                                 1.10548e-05 +/- 1.46456e-06
    Incoming Energy [285677.14457886666, 329139.9859714147)
      Particle: neutron
        Total Material
-         Flux                                 1.15111e-05 +/- 4.64551e-06
+         Flux                                 1.31789e-05 +/- 1.45238e-06
    Incoming Energy [329139.9859714147, 379215.2519760139)
      Particle: neutron
        Total Material
-         Flux                                 2.12663e-05 +/- 5.85829e-06
+         Flux                                 1.76937e-05 +/- 1.77514e-06
    Incoming Energy [379215.2519760139, 436908.9550356878)
      Particle: neutron
        Total Material
-         Flux                                 3.74647e-06 +/- 2.6454e-06
+         Flux                                 8.22003e-06 +/- 1.40445e-06
    Incoming Energy [436908.9550356878, 503380.1620469915)
      Particle: neutron
        Total Material
-         Flux                                 1.23171e-05 +/- 4.72514e-06
+         Flux                                 1.17176e-05 +/- 1.61033e-06
    Incoming Energy [503380.1620469915, 579964.2800220422)
      Particle: neutron
        Total Material
-         Flux                                 1.30586e-05 +/- 5.64031e-06
+         Flux                                 1.17462e-05 +/- 1.71739e-06
    Incoming Energy [579964.2800220422, 668199.8844246987)
      Particle: neutron
        Total Material
-         Flux                                 2.44708e-05 +/- 6.64784e-06
+         Flux                                 2.41024e-05 +/- 2.36795e-06
    Incoming Energy [668199.8844246987, 769859.6291623531)
      Particle: neutron
        Total Material
-         Flux                                 1.38812e-05 +/- 5.79447e-06
+         Flux                                 1.24865e-05 +/- 1.58328e-06
    Incoming Energy [769859.6291623531, 886985.8592152859)
      Particle: neutron
        Total Material
-         Flux                                 1.30605e-05 +/- 4.77676e-06
+         Flux                                 1.32025e-05 +/- 1.4236e-06
    Incoming Energy [886985.8592152859, 1021931.6413615512)
      Particle: neutron
        Total Material
-         Flux                                 1.52802e-05 +/- 5.22416e-06
+         Flux                                 1.43007e-05 +/- 1.66051e-06
    Incoming Energy [1021931.6413615512, 1177408.03730495)
      Particle: neutron
        Total Material
-         Flux                                 1.22024e-05 +/- 5.41367e-06
+         Flux                                 1.67079e-05 +/- 1.98204e-06
    Incoming Energy [1177408.03730495, 1356538.5689235511)
      Particle: neutron
        Total Material
-         Flux                                 1.04709e-05 +/- 4.16809e-06
+         Flux                                 1.53931e-05 +/- 2.03107e-06
    Incoming Energy [1356538.5689235511, 1562921.9698459923)
      Particle: neutron
        Total Material
-         Flux                                 9.27464e-06 +/- 4.53264e-06
+         Flux                                 1.17883e-05 +/- 1.42649e-06
    Incoming Energy [1562921.9698459923, 1800704.4840351595)
      Particle: neutron
        Total Material
-         Flux                                 3.33811e-06 +/- 2.03978e-06
+         Flux                                 1.22824e-05 +/- 1.57163e-06
    Incoming Energy [1800704.4840351595, 2074663.1638582982)
      Particle: neutron
        Total Material
-         Flux                                 1.25461e-05 +/- 4.69121e-06
+         Flux                                 1.06235e-05 +/- 1.4156e-06
    Incoming Energy [2074663.1638582982, 2390301.841102364)
      Particle: neutron
        Total Material
-         Flux                                 8.74839e-06 +/- 3.87362e-06
+         Flux                                 8.45841e-06 +/- 1.28754e-06
    Incoming Energy [2390301.841102364, 2753961.69899298)
      Particle: neutron
        Total Material
-         Flux                                 1.36996e-05 +/- 6.00955e-06
+         Flux                                 1.10766e-05 +/- 1.43895e-06
    Incoming Energy [2753961.69899298, 3172948.666609635)
      Particle: neutron
        Total Material
-         Flux                                 1.38572e-05 +/- 5.67374e-06
+         Flux                                 1.09143e-05 +/- 1.5422e-06
    Incoming Energy [3172948.666609635, 3655680.195051795)
      Particle: neutron
        Total Material
-         Flux                                 9.1924e-06 +/- 4.05075e-06
+         Flux                                 1.11422e-05 +/- 1.52881e-06
    Incoming Energy [3655680.195051795, 4211854.3640902)
      Particle: neutron
        Total Material
-         Flux                                 1.70552e-06 +/- 1.70552e-06
+         Flux                                 9.18798e-06 +/- 1.50588e-06
    Incoming Energy [4211854.3640902, 4852644.716656982)
      Particle: neutron
        Total Material
-         Flux                                 9.74107e-06 +/- 4.10743e-06
+         Flux                                 8.87056e-06 +/- 1.39451e-06
    Incoming Energy [4852644.716656982, 5590924.735401089)
      Particle: neutron
        Total Material
-         Flux                                 6.16679e-06 +/- 3.35342e-06
+         Flux                                 8.58228e-06 +/- 1.23995e-06
    Incoming Energy [5590924.735401089, 6441526.471044408)
      Particle: neutron
        Total Material
-         Flux                                 6.56302e-06 +/- 3.50171e-06
+         Flux                                 7.10745e-06 +/- 1.12238e-06
    Incoming Energy [6441526.471044408, 7421538.518384137)
      Particle: neutron
        Total Material
-         Flux                                 5.62942e-06 +/- 3.80658e-06
+         Flux                                 1.09709e-05 +/- 1.3503e-06
    Incoming Energy [7421538.518384137, 8550649.326281361)
      Particle: neutron
        Total Material
-         Flux                                 1.90163e-05 +/- 6.40114e-06
+         Flux                                 1.32274e-05 +/- 1.49406e-06
    Incoming Energy [8550649.326281361, 9851542.738735879)
      Particle: neutron
        Total Material
-         Flux                                 1.01967e-05 +/- 4.02308e-06
+         Flux                                 1.76897e-05 +/- 1.7306e-06
    Incoming Energy [9851542.738735879, 11350353.713470262)
      Particle: neutron
        Total Material
-         Flux                                 1.33683e-05 +/- 4.59284e-06
+         Flux                                 1.56747e-05 +/- 1.65939e-06
    Incoming Energy [11350353.713470262, 13077193.37341263)
      Particle: neutron
        Total Material
-         Flux                                 2.79632e-05 +/- 7.40563e-06
+         Flux                                 2.36977e-05 +/- 2.00508e-06
    Incoming Energy [13077193.37341263, 15066753.939366143)
      Particle: neutron
        Total Material
-         Flux                                 0.00149981 +/- 5.5032e-05
+         Flux                                 0.00146288 +/- 1.71872e-05
    Incoming Energy [15066753.939366143, 17359005.696966715)
      Particle: neutron
        Total Material
