@@ -51,7 +51,10 @@ class Excalibur:
         'fluoride' (FLiBe + UF₄), 'chloride' (ClLiF + UCl₃),
         or 'air' (empty box for background spectra).
     fertile_mol_pct : float
-        Mole-percent fertile compound in the salt (0 = pure breeder).
+        Mole-percent fertile compound in the salt (0 = pure breeder),
+        counted per component salt (MSRE-style convention):
+        fluoride → mol% UF₄ among {LiF, BeF₂, UF₄};
+        chloride → mol% UCl₃ among {LiCl, LiF, UCl₃}.
     u235_enrich : float
         Atom fraction U-235 in uranium (default 0.0072 = natural).
     run_mode : str
@@ -152,13 +155,19 @@ class Excalibur:
             enr = self.u235_enrich
 
             if self.salt_type == "fluoride":
-                # -- Breeder: FLiBe = 2(LiF)·BeF₂ = Li₂BeF₄  (7 atoms/f.u.)
-                breeder = openmc.Material(name="FLiBe")
+                # -- Breeder: FLiBe = 66.7 mol% LiF + 33.3 mol% BeF₂
+                #    Atomically identical to Li₂BeF₄ (same composition &
+                #    density), but mol% is bookkept per MSRE-style
+                #    component-salt convention (LiF, BeF₂, UF₄ as separate
+                #    components), NOT per Li₂BeF₄ formula unit.
+                breeder = openmc.Material(name="FLiBe (66.7% LiF – 33.3% BeF2)")
                 breeder.set_density("g/cm3", 2.214)       # RT solid
                 breeder.add_element("Li", 2.0)
                 breeder.add_nuclide("Be9", 1.0)
                 breeder.add_nuclide("F19", 4.0)
-                n_atoms_breeder = 7
+                # atoms per mole of component salt:
+                # (2/3)·2 [LiF] + (1/3)·3 [BeF₂] = 7/3
+                n_atoms_breeder = 7.0 / 3.0
 
                 # -- Fertile: UF₄  (5 atoms/f.u.)
                 fertile = openmc.Material(name="UF4")
