@@ -117,14 +117,14 @@ class Excalibur:
         self.air.add_nuclide("O16",  1.0642e-05)
         self.air.add_element("Ar",   2.3230e-07)
 
-        self.carbon_steel = openmc.Material(name="Carbon Steel")
-        self.carbon_steel.set_density("g/cm3", 7.85)
-        self.carbon_steel.add_element("C",  0.026,  "wo")
-        self.carbon_steel.add_element("Si", 0.400,  "wo")
-        self.carbon_steel.add_element("P",  0.040,  "wo")
-        self.carbon_steel.add_element("S",  0.050,  "wo")
-        self.carbon_steel.add_element("Fe", 99.284, "wo")
-        self.carbon_steel.add_element("Cu", 0.200,  "wo")
+        self.steel = openmc.Material(name="Carbon Steel")
+        self.steel.set_density("g/cm3", 7.85)
+        self.steel.add_element("C",  0.026,  "wo")
+        self.steel.add_element("Si", 0.400,  "wo")
+        self.steel.add_element("P",  0.040,  "wo")
+        self.steel.add_element("S",  0.050,  "wo")
+        self.steel.add_element("Fe", 99.284, "wo")
+        self.steel.add_element("Cu", 0.200,  "wo")
 
         self.bpoly = openmc.Material(name="Borated Polyethylene")
         self.bpoly.set_density("g/cm3", 1.08)
@@ -180,7 +180,7 @@ class Excalibur:
                 lif = openmc.Material(name="LiF")
                 lif.set_density("g/cm3", 2.635)           # RT solid
                 lif.add_element("Li", 1.0)
-                lif.add_nuclide("F19", 1.0)
+                lif.add_element("F", 1.0)
 
                 breeder = openmc.Material.mix_materials(
                     [licl, lif], [0.695, 0.305], "ao",
@@ -217,7 +217,7 @@ class Excalibur:
                 self.salt = breeder
 
         # Build materials list (avoid duplicates when salt is air)
-        mat_list = [self.air, self.carbon_steel, self.bpoly]
+        mat_list = [self.air, self.steel, self.bpoly]
         if self.salt is not self.air:
             mat_list.append(self.salt)
         self.materials = openmc.Materials(mat_list)
@@ -297,7 +297,7 @@ class Excalibur:
             slit_cell.region = slit_region & +src_sph
             self.cells["wedge"] = slit_cell
 
-            cs_cell = openmc.Cell(name="Carbon steel", fill=self.carbon_steel)
+            cs_cell = openmc.Cell(name="Carbon steel", fill=self.steel)
             cs_cell.region = cs_cylinder & ~slit_region & +src_sph
             self.cells["steel"] = cs_cell
 
@@ -327,7 +327,7 @@ class Excalibur:
             wedge_cell.region = wedge_region & +src_sph
             self.cells["wedge"] = wedge_cell
 
-            cs_cell = openmc.Cell(name="Carbon steel", fill=self.carbon_steel)
+            cs_cell = openmc.Cell(name="Carbon steel", fill=self.steel)
             cs_cell.region = cs_cylinder & +src_sph
             self.cells["steel"] = cs_cell
 
@@ -532,31 +532,33 @@ class Excalibur:
     def _build_plots(self):
         color_map = {
             self.air:          "lightyellow",
-            self.carbon_steel: "slategray",
+            self.steel: "slategray",
             self.bpoly:        "mediumseagreen",
         }
         if self.salt is not self.air:
             color_map[self.salt] = "darkorange"
 
-        xz = openmc.Plot()
-        xz.filename = f"plot_xz_{self.mode}"
-        xz.basis    = "xz"
-        xz.origin   = (55.0, 0.0, 0.0)
-        xz.width    = (350.0, 150.0)
-        xz.pixels   = (1750, 750)
-        xz.color_by = "material"
-        xz.colors   = color_map
+        # Elevation (side) view — vertical XZ slice through the beam axis
+        elevation = openmc.Plot()
+        elevation.filename = f"plot_elevation_{self.mode}"
+        elevation.basis    = "xz"
+        elevation.origin   = (55.0, 0.0, 0.0)
+        elevation.width    = (350.0, 150.0)
+        elevation.pixels   = (1750, 750)
+        elevation.color_by = "material"
+        elevation.colors   = color_map
 
-        xy = openmc.Plot()
-        xy.filename = f"plot_xy_{self.mode}"
-        xy.basis    = "xy"
-        xy.origin   = (55.0, 0.0, 0.0)
-        xy.width    = (350.0, 200.0)
-        xy.pixels   = (1750, 1000)
-        xy.color_by = "material"
-        xy.colors   = color_map
+        # Plan (top-down) view — horizontal XY slice through the beam axis
+        plan = openmc.Plot()
+        plan.filename = f"plot_plan_{self.mode}"
+        plan.basis    = "xy"
+        plan.origin   = (55.0, 0.0, 0.0)
+        plan.width    = (350.0, 200.0)
+        plan.pixels   = (1750, 1000)
+        plan.color_by = "material"
+        plan.colors   = color_map
 
-        self.plots = openmc.Plots([xz, xy])
+        self.plots = openmc.Plots([elevation, plan])
 
     # ================================================================
     #  EXPORT & RUN
@@ -573,9 +575,45 @@ class Excalibur:
         print(f"  → {model_path}")
         return model_path
 
-    def run(self):
-        """Run OpenMC in the directory used by the last export() call."""
+    def plot_geometry(self):
+        """
+        Generate the geometry plots (plan + elevation) for this case by
+        running OpenMC in plotting mode.  Reads the <plots> defined in
+        model.xml and writes plot_plan_<mode>.png and
+        plot_elevation_<mode>.png into the case directory.
+        """
         case_dir = getattr(self, "_case_dir", Path("."))
+        print(f"  Plotting geometry (plan + elevation) in {case_dir} …")
+        result = subprocess.run(
+            ["openmc", "--plot", "model.xml"],
+            cwd=str(case_dir),
+        )
+        if result.returncode != 0:
+            print(f"  ⚠ Geometry plotting exited with code {result.returncode}")
+        return result.returncode
+
+    def run(self):
+        """
+        Plot the geometry, then run the OpenMC source calculation in the
+        directory used by the last export() call.
+
+        The plan + elevation geometry plots are regenerated every time.
+        The source calculation is skipped when a statepoint already exists
+        for this case, so re-running the sweep only fills in missing
+        results (and refreshes the plots) without repeating transport.
+        """
+        case_dir = getattr(self, "_case_dir", Path("."))
+
+        # Always (re)generate the plan + elevation geometry plots
+        self.plot_geometry()
+
+        # Skip the (expensive) source calculation if results already exist
+        existing = sorted(case_dir.glob("statepoint.*.h5"))
+        if existing:
+            print(f"  ✓ Statepoint exists ({existing[-1].name}) — "
+                  f"skipping source calculation")
+            return 0
+
         print(f"  Running OpenMC in {case_dir} …")
         result = subprocess.run(
             ["openmc", "model.xml"],

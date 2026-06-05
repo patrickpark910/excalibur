@@ -115,7 +115,28 @@ def setup_ax(ax, title, ylabel="Current (s⁻¹ per bin)"):
     ax.grid(True, which="both", ls=":", alpha=0.4)
 
 
-def plot_raw(particle, tally_name, out_filename, xlim=None):
+def _apply_ylim(ax, ylim):
+    """
+    Apply a y-axis limit (lo, hi) where either bound may be None to leave
+    that side auto-scaled to the data.
+
+    e.g. ylim=(1e0, None) pins the floor at 1 and lets the top follow the
+    data; ylim=(None, 1e6) caps the top and auto-scales the floor.  When a
+    bound is None the axis is first autoscaled to the data so the kept side
+    reflects the data rather than a stale/default limit.
+    """
+    lo, hi = ylim
+    if lo is not None and hi is not None:
+        ax.set_ylim(lo, hi)
+        return
+    ax.relim()
+    ax.autoscale(enable=True, axis="y")
+    auto_lo, auto_hi = ax.get_ylim()
+    ax.set_ylim(bottom=lo if lo is not None else auto_lo,
+                top=hi if hi is not None else auto_hi)
+
+
+def plot_raw(particle, tally_name, out_filename, xlim=None, ylim=None):
     """
     Plot raw spectra for both modes.
     Lines: each salt case + air background.
@@ -148,6 +169,8 @@ def plot_raw(particle, tally_name, out_filename, xlim=None):
         setup_ax(ax, f"{mode.capitalize()} — {particle}")
         if xlim is not None:
             ax.set_xlim(xlim)
+        if ylim is not None:
+            _apply_ylim(ax, ylim)
         ax.legend(fontsize=8, loc="best")
 
     fig.tight_layout()
@@ -156,7 +179,7 @@ def plot_raw(particle, tally_name, out_filename, xlim=None):
     plt.close(fig)
 
 
-def plot_subtracted(particle, tally_name, out_filename, xlim=None):
+def plot_subtracted(particle, tally_name, out_filename, xlim=None, ylim=None):
     """
     Plot air-subtracted spectra for both modes.
     Lines: (salt − air) for each salt case.  Air itself is NOT plotted.
@@ -191,6 +214,8 @@ def plot_subtracted(particle, tally_name, out_filename, xlim=None):
                  ylabel="Current − background (s⁻¹ per bin)")
         if xlim is not None:
             ax.set_xlim(xlim)
+        if ylim is not None:
+            _apply_ylim(ax, ylim)
         ax.legend(fontsize=8, loc="best")
 
     fig.tight_layout()
@@ -264,32 +289,85 @@ def _macro_xs_from_dataframes(df_flux, df_rr, nuclide="U238"):
 
     Returns dict(capture=Σ̄_(n,γ), fission=Σ̄_fission) in cm⁻¹, or None if the
     nuclide is absent or the total flux is zero.
+
+    Each reaction additionally carries its 1-sigma absolute uncertainty
+    (key ``*_sd``, in cm^-1) and its relative uncertainty (key ``*_re``),
+    propagated from the per-bin OpenMC tally standard deviations.
     """
     df_n = df_rr[df_rr["nuclide"] == nuclide]
     if df_n.empty:
         return None
 
-    cap = df_n[df_n["score"] == "(n,gamma)"]["mean"].values
-    fis = df_n[df_n["score"] == "fission"]["mean"].values
+    cap_df = df_n[df_n["score"] == "(n,gamma)"]
+    fis_df = df_n[df_n["score"] == "fission"]
 
-    tot_flux = df_flux["mean"].values.sum()
+    cap    = cap_df["mean"].values
+    cap_sd = cap_df["std. dev."].values
+    fis    = fis_df["mean"].values
+    fis_sd = fis_df["std. dev."].values
+
+    flux    = df_flux["mean"].values
+    flux_sd = df_flux["std. dev."].values
+
+    tot_flux = flux.sum()
     if tot_flux <= 0.0:
         return None
 
-    return dict(capture=cap.sum() / tot_flux,
-                fission=fis.sum() / tot_flux)
+    # Energy-integrated reaction rates and their 1-sigma.  The per-bin
+    # standard deviations are summed in quadrature: the capture/fission bins
+    # are dominated by rare, effectively uncorrelated events, so quadrature
+    # tracks the integral's sampling error faithfully.
+    R_cap    = cap.sum()
+    R_cap_sd = float(np.sqrt(np.sum(cap_sd ** 2)))
+    R_fis    = fis.sum()
+    R_fis_sd = float(np.sqrt(np.sum(fis_sd ** 2)))
+
+    # Total in-box flux and its 1-sigma (very well converged; small term).
+    F_sd     = float(np.sqrt(np.sum(flux_sd ** 2)))
+    rel_flux = F_sd / tot_flux
+
+    def _ratio(R, R_sd):
+        # Sigma_bar = R / phi.  Relative error of the ratio with R and phi
+        # treated as independent.  The neglected (positive) R-phi correlation
+        # makes this a mild upper bound, and rel_flux is small, so in practice
+        # the reaction-rate sampling term dominates.
+        sig = R / tot_flux
+        if R > 0.0:
+            rel = math.sqrt((R_sd / R) ** 2 + rel_flux ** 2)
+        else:
+            rel = float("inf")
+        return sig, sig * rel, rel
+
+    cap_xs, cap_xs_sd, cap_re = _ratio(R_cap, R_cap_sd)
+    fis_xs, fis_xs_sd, fis_re = _ratio(R_fis, R_fis_sd)
+
+    return dict(capture=cap_xs, capture_sd=cap_xs_sd, capture_re=cap_re,
+                fission=fis_xs, fission_sd=fis_xs_sd, fission_re=fis_re)
 
 
-def get_u238_macro_xs(case_dir, nuclide="U238"):
+def get_uranium_macro_xs(case_dir):
     """
-    Read the flux spectrum (tally 4) and the U capture/fission spectrum
-    (tally 6) from the latest statepoint in *case_dir* and return the
-    flux-averaged macroscopic cross sections for *nuclide*.
+    Flux-averaged macroscopic capture and fission cross sections in the salt
+    box for U-235, U-238, and elemental uranium, from the latest statepoint
+    in *case_dir*.
 
-    Returns dict(capture=…, fission=…) in cm⁻¹, or None when the statepoint
-    or the required tallies are missing — e.g. air-background cases, which
-    carry no uranium (tally 6 is only written when fertile material is
-    present), or results produced before the flux-spectrum tally was added.
+    Uses the flux spectrum (tally 4) and the per-nuclide U capture/fission
+    spectrum (tally 6).  Each isotope value is Σ̄_x = Σ_g R_x,g / Σ_g φ_g.
+
+    Elemental uranium is the sum of the two isotope contributions:
+
+        Σ_x(U) = (R_x,U235 + R_x,U238) / φ = Σ_x(U235) + Σ_x(U238)
+
+    which is exact, because macroscopic cross sections (and the reaction
+    rates behind them) add over constituents.  The uranium here is at
+    natural enrichment, so this is the natural elemental-U macroscopic
+    cross section.
+
+    Returns
+    -------
+    dict keyed by "U235", "U238", "U", each mapping to dict(capture=…,
+    fission=…) in cm⁻¹, or None when the statepoint or the required tallies
+    are missing (e.g. air-background cases, which carry no uranium).
     """
     sp_files = sorted(case_dir.glob("statepoint.*.h5"))
     if not sp_files:
@@ -302,35 +380,100 @@ def get_u238_macro_xs(case_dir, nuclide="U238"):
     except (LookupError, KeyError):
         return None
 
-    return _macro_xs_from_dataframes(
-        t_flux.get_pandas_dataframe(),
-        t_rr.get_pandas_dataframe(),
-        nuclide=nuclide,
-    )
+    # Read each tally once; the per-nuclide split is just dataframe filtering.
+    df_flux = t_flux.get_pandas_dataframe()
+    df_rr   = t_rr.get_pandas_dataframe()
+
+    u235 = _macro_xs_from_dataframes(df_flux, df_rr, "U235")
+    u238 = _macro_xs_from_dataframes(df_flux, df_rr, "U238")
+    if u235 is None or u238 is None:
+        return None
+
+    # Elemental U = U-235 + U-238.  Macroscopic cross sections and the
+    # reaction rates behind them add over constituents, so the means sum
+    # directly; the 1-sigma uncertainties combine in quadrature (the two
+    # isotopes' rare-event reaction rates are treated as independent, which
+    # is dominated by U-238 anyway at natural enrichment).
+    def _combine(rxn):
+        m  = u235[rxn] + u238[rxn]
+        sd = math.sqrt(u235[rxn + "_sd"] ** 2 + u238[rxn + "_sd"] ** 2)
+        re = (sd / m) if m > 0.0 else float("inf")
+        return m, sd, re
+
+    cap_m, cap_sd, cap_re = _combine("capture")
+    fis_m, fis_sd, fis_re = _combine("fission")
+    u_elem = dict(capture=cap_m, capture_sd=cap_sd, capture_re=cap_re,
+                  fission=fis_m, fission_sd=fis_sd, fission_re=fis_re)
+
+    return {"U235": u235, "U238": u238, "U": u_elem}
+
+
+def _fmt_xs(val, rel):
+    """Compact console cell: ``mean ± relative-1sigma%`` (5-char error field)."""
+    if not math.isfinite(rel):
+        pe = "  n/a"
+    else:
+        pct = 100.0 * rel
+        if pct < 1.0:
+            pe = "  <1%"
+        elif pct >= 1000.0:
+            pe = ">999%"
+        else:
+            pe = f"{pct:4.0f}%"
+    return f"{val:.3e} ±{pe}"
 
 
 def write_summary_csv(csv_path="summary.csv"):
     """
     Write a CSV with neutron-flux metrics at the mouth and at 1 m
-    (salt-box front face) for every case, plus the flux-averaged U-238
-    macroscopic capture and fission cross sections in the salt box.
+    (salt-box front face) for every case, plus the flux-averaged
+    macroscopic capture and fission cross sections in the salt box for
+    U-235, U-238, and elemental uranium (U = U-235 + U-238).
 
-    The U-238 cross sections are also printed to the console as the table
-    is built.  They are blank for the air-background cases (no uranium).
+    The cross sections are also printed to the console as the table is
+    built.  They are blank for the air-background cases (no uranium).
 
     Columns:
         case, mode, salt_type, fertile_mol_pct,
         mouth_total, mouth_sub0.8MeV, mouth_gt10MeV,
         1m_total,    1m_sub0.8MeV,    1m_gt10MeV,
-        U238_capture_xs_per_cm, U238_fission_xs_per_cm
+        U235_capture_xs_per_cm, U235_fission_xs_per_cm,
+        U238_capture_xs_per_cm, U238_fission_xs_per_cm,
+        U_capture_xs_per_cm,    U_fission_xs_per_cm,
+        ...and the same six names with "_unc_" in place of "_" before
+        "per_cm": the absolute 1-sigma statistical uncertainty (cm^-1) of
+        each cross section.
+
+    The console table additionally prints, for every cross section, its
+    relative 1-sigma statistical error as "Σ̄ ± rel%", so poorly converged
+    channels (e.g. dilute U-238 capture) are obvious at a glance.
     """
     import csv
+
+    # (nuclide-key, reaction-key) in display / column order
+    XS_ORDER = [
+        ("U235", "capture"), ("U235", "fission"),
+        ("U238", "capture"), ("U238", "fission"),
+        ("U",    "capture"), ("U",    "fission"),
+    ]
+    XS_COLS = ["U235_cap", "U235_fis", "U238_cap", "U238_fis", "U_cap", "U_fis"]
+    XS_CSV_HEADER = [
+        "U235_capture_xs_per_cm", "U235_fission_xs_per_cm",
+        "U238_capture_xs_per_cm", "U238_fission_xs_per_cm",
+        "U_capture_xs_per_cm",    "U_fission_xs_per_cm",
+    ]
+    # Absolute 1-sigma uncertainty (cm^-1) paired with each XS column above.
+    XS_UNC_HEADER = [
+        "U235_capture_xs_unc_per_cm", "U235_fission_xs_unc_per_cm",
+        "U238_capture_xs_unc_per_cm", "U238_fission_xs_unc_per_cm",
+        "U_capture_xs_unc_per_cm",    "U_fission_xs_unc_per_cm",
+    ]
 
     header = [
         "case", "mode", "salt_type", "fertile_mol_pct",
         "mouth_total", "mouth_sub0.8MeV", "mouth_gt10MeV",
         "1m_total",    "1m_sub0.8MeV",    "1m_gt10MeV",
-        "U238_capture_xs_per_cm", "U238_fission_xs_per_cm",
+        *XS_CSV_HEADER, *XS_UNC_HEADER,
     ]
 
     # Build the same case list as the sweep
@@ -344,11 +487,12 @@ def write_summary_csv(csv_path="summary.csv"):
                 cases.append((dname, mode, sl, fpct))
         cases.append((air_dir_name(mode), mode, "air", 0.0))
 
-    # Console header for the flux-averaged U-238 macroscopic cross sections
-    print("  U-238 flux-averaged macroscopic cross sections in salt box "
-          "(Σ̄ = rate / flux):")
-    print(f"    {'case':<48}  {'Σ_capture [1/cm]':>17}  {'Σ_fission [1/cm]':>17}")
-    print(f"    {'-'*48}  {'-'*17}  {'-'*17}")
+    # Console header for the flux-averaged macroscopic cross sections
+    print("  Flux-averaged macroscopic cross sections in salt box [1/cm]  "
+          "(Σ̄ = rate / flux;  U = U235 + U238):")
+    print("    (each cell:  Σ̄ ± relative 1σ statistical error)")
+    print(f"    {'case':<44}" + "".join(f"  {c:>16}" for c in XS_COLS))
+    print(f"    {'-'*44}" + "".join(f"  {'-'*16}" for _ in XS_COLS))
 
     rows = []
     for dname, mode, slabel, fpct in cases:
@@ -358,21 +502,25 @@ def write_summary_csv(csv_path="summary.csv"):
         front = integrate_bands(cdir, FRONT_TALLY)
 
         if mouth is None or front is None:
-            print(f"    {dname:<48}  {'(no statepoint)':>17}")
+            print(f"    {dname:<44}  (no statepoint)")
             continue
 
-        # Flux-averaged U-238 macroscopic cross sections (None for air cases)
-        xs = get_u238_macro_xs(cdir, nuclide="U238")
+        # Flux-averaged macroscopic XS for U-235, U-238, elemental U
+        # (None for air cases, which carry no uranium)
+        xs = get_uranium_macro_xs(cdir)
         if xs is None:
-            cap_csv = fis_csv = ""
-            cap_txt = fis_txt = "n/a"
+            xs_csv  = [""] * len(XS_ORDER)
+            unc_csv = [""] * len(XS_ORDER)
+            xs_txt  = ["n/a"] * len(XS_ORDER)
         else:
-            cap_csv = f"{xs['capture']:.6e}"
-            fis_csv = f"{xs['fission']:.6e}"
-            cap_txt = cap_csv
-            fis_txt = fis_csv
+            vals = [xs[nuc][rxn]         for nuc, rxn in XS_ORDER]
+            sds  = [xs[nuc][rxn + "_sd"] for nuc, rxn in XS_ORDER]
+            res  = [xs[nuc][rxn + "_re"] for nuc, rxn in XS_ORDER]
+            xs_csv  = [f"{v:.6e}" for v in vals]
+            unc_csv = [f"{s:.6e}" for s in sds]
+            xs_txt  = [_fmt_xs(v, r) for v, r in zip(vals, res)]
 
-        print(f"    {dname:<48}  {cap_txt:>17}  {fis_txt:>17}")
+        print(f"    {dname:<44}" + "".join(f"  {t:>16}" for t in xs_txt))
 
         rows.append([
             dname, mode, slabel, f"{fpct:.1f}",
@@ -382,7 +530,7 @@ def write_summary_csv(csv_path="summary.csv"):
             f"{front['total']:.6e}",
             f"{front['sub_0p8MeV']:.6e}",
             f"{front['gt_10MeV']:.6e}",
-            cap_csv, fis_csv,
+            *xs_csv, *unc_csv,
         ])
 
     with open(csv_path, "w", newline="") as f:
@@ -423,22 +571,26 @@ if __name__ == "__main__":
         # ---- Set 1: raw spectra ----
         plot_raw("Neutron",
                  "Neutron spectrum — salt exit face",
-                 f"fig_neutron_raw{LENGTH_TAG}.png")
+                 f"fig_neutron_raw{LENGTH_TAG}.png",
+                 ylim=(1e0, None))
 
         plot_raw("Gamma",
                  "Gamma spectrum — salt exit face",
                  f"fig_gamma_raw{LENGTH_TAG}.png",
-                 xlim=(1e4, 20e6))
+                 xlim=(1e4, 20e6),
+                 ylim=(1e0, None))
 
         # ---- Set 2: air-subtracted spectra ----
         plot_subtracted("Neutron",
                         "Neutron spectrum — salt exit face",
-                        f"fig_neutron_sub{LENGTH_TAG}.png")
+                        f"fig_neutron_sub{LENGTH_TAG}.png",
+                        ylim=(1e0, None))
 
         plot_subtracted("Gamma",
                         "Gamma spectrum — salt exit face",
                         f"fig_gamma_sub{LENGTH_TAG}.png",
-                        xlim=(1e4, 20e6))
+                        xlim=(1e4, 20e6),
+                        ylim=(1e0, None))
 
         # ---- Summary CSV ----
         print()
